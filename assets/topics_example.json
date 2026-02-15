@@ -1,0 +1,131 @@
+{
+    "Seating Arrangements (Linear, Circular)": [
+        {
+            "question": "There are five men named A, B, C, D, and E facing south and five ladies named M, N, O, P, and Q facing north in a line parallel to the first line. Q is situated across from B and to the left of D. C and N are positioned on opposite sides of the diagonal. E is directly facing O, who is to the right of M. P, on the left of Q, is on the opposite side of D. M is positioned at one end of the line. If O and P, A and E, and B and Q exchange positions, who will be the second person to the right of the person opposite to the second person to the right of P?",
+            "choices": [
+                "A) D",
+                "B) A",
+                "C) E",
+                "D) O"
+            ],
+            "expected_answer": "B",
+            "explanation": "The arrangement is Men (South): C-E-D-B-A and Ladies (North): M-O-P-Q-N. After swapping O-P, A-E, and B-Q, the Men become C-A-D-Q-E and Ladies M-P-O-B-N. P is at position 2. Second to P's right is B (pos 4). Opposite B is Q. Facing South, Q's second right is A."
+        },
+        {
+            "question": "There are five men named A, B, C, D, and E facing south and five ladies named M, N, O, P, and Q facing north in a line parallel to the first line. Q is situated across from B and to the left of D. C and N are positioned on opposite sides of the diagonal. E is directly facing O, who is to the right of M. P, on the left of Q, is on the opposite side of D. M is positioned at one end of the line. If B substitutes for E, E replaces Q, and Q takes the spot of B, who will be situated second to the left of the individual opposite O?",
+            "choices": [
+                "A) Q",
+                "B) P",
+                "C) E",
+                "D) D"
+            ],
+            "expected_answer": "A",
+            "explanation": "Original arrangement: Men C-E-D-B-A; Ladies M-O-P-Q-N. After the cycle (B replaces E, E replaces Q, Q replaces B), the Men's row becomes C-B-D-Q-A. The person opposite O is B (facing South). The second position to B's left (viewer's right) is Q."
+        }
+    ],
+    "Family tree logic": [
+        {
+            "question": "Arjun says, “She is the wife of my mother’s son.” How is the woman related to Arjun?",
+            "choices": [
+                "A) Sister-in-law",
+                "B) Sister",
+                "C) Aunt",
+                "D) Cousin"
+            ],
+            "expected_answer": "A",
+            "explanation": "My mother's son could be Arjun or his brother. Since 'Wife' is not among the choices, we assume it refers to his brother. The wife of Arjun's brother is his Sister-in-law."
+        },
+        {
+            "question": "Sita said, “The man in the picture is my husband’s father’s only son.” How is the man related to Sita?",
+            "choices": [
+                "A) Father-in-law",
+                "B) Husband",
+                "C) Brother-in-law",
+                "D) Uncle"
+            ],
+            "expected_answer": "B",
+            "explanation": "Sita's 'husband's father' is her father-in-law. The 'only son' of her father-in-law is Sita's husband himself. Therefore, the man in the picture is her Husband."
+        },
+        {
+            "question": "Neha points to a girl and says, “She is the only daughter of my father’s father.” How is the girl related to Neha?",
+            "choices": [
+                "A) Aunt",
+                "B) Mother",
+                "C) Sister",
+                "D) Cousin"
+            ],
+            "expected_answer": "A",
+            "explanation": "My father's father refers to Neha's grandfather. The only daughter of the grandfather is the sister of Neha's father. The father's sister is related to Neha as her Aunt."
+        }
+    ],
+    "Mixed Series (Alphanumeric)": [
+        {
+            "question": "JAK, KBL, LCM, MDN, _____",
+            "choices": [
+                "A) OEP",
+                "B) NEO",
+                "C) MEN",
+                "D) PFQ"
+            ],
+            "expected_answer": "B",
+            "explanation": "Middle letters follow alphabetical order A, B, C, D, E. First and third letters increase alphabetically, and the third letter becomes the first letter of the next term. Hence NEO."
+        },
+        {
+            "question": "BCB, DED, FGF, HIH, ___",
+            "choices": [
+                "A) JKJ",
+                "B) HJH",
+                "C) IJI",
+                "D) JHJ"
+            ],
+            "expected_answer": "A",
+            "explanation": "First two letters progress alphabetically in pairs: B,C → D,E → F,G → H,I → J,K. The third letter repeats the first letter of each term. Hence JKJ."
+        },
+        {
+            "question": "ZA_5, Y_4B, XC_6, W_3D, _____",
+            "choices": [
+                "A) E_7V",
+                "B) V_2E",
+                "C) VE_5",
+                "D) VE_7"
+            ],
+            "expected_answer": "D",
+            "explanation": "There are three series to look for here. The first letters are alphabetical in reverse: Z, Y, X, W, V. The second letters are in alphabetical order, beginning with A. The number series is as follows: 5, 4, 6, 3, 7. Hence VE_7."
+        }
+    ],
+    "Syllogisms": [
+        {
+            "question": "Statement I: Some plums are peaches\nStatement II: All peaches are apples\nStatement III: Some apples are mangoes\nConclusion I: Some mangoes are peaches\nConclusion II: Some apples are peaches",
+            "choices": [
+                "A) If only conclusion I follow",
+                "B) If only conclusion II follows",
+                "C) If conclusion I and II both follow",
+                "D) If neither conclusion I nor conclusion II follows"
+            ],
+            "expected_answer": "B",
+            "explanation": "All peaches are apples ensures some apples are peaches. No definite link proves mangoes are peaches."
+        },
+        {
+            "question": "Statement I: All trees are shrubs\nStatement II: No shrub is a sapling\nStatement III: All saplings are grass\nConclusions I: No tree is a grass\nConclusion II: Some saplings being trees is a possibility",
+            "choices": [
+                "A) If only conclusion I follow",
+                "B) If only conclusion II follows",
+                "C) If conclusion I and II both follow",
+                "D) If neither conclusion I nor conclusion II follows"
+            ],
+            "expected_answer": "D",
+            "explanation": "No direct tree–grass relation is definite. Trees cannot be saplings, so II is not possible."
+        },
+        {
+            "question": "Statement I: Some green is red\nStatement II: Some red is blue\nStatement III: All blue is yellow\nConclusion I: Some yellow is green\nConclusion II: Some yellow is red",
+            "choices": [
+                "A) If only conclusion I follow",
+                "B) If only conclusion II follows",
+                "C) If conclusion I and II both follow",
+                "D) If neither conclusion I nor conclusion II follows"
+            ],
+            "expected_answer": "B",
+            "explanation": "Red overlaps blue and blue ⊆ yellow, so some yellow is red. Green link is not definite."
+        }
+    ]
+}

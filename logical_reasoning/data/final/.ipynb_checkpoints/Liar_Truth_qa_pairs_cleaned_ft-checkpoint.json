@@ -1,0 +1,146 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "A guard is either a truth-teller or a liar. If a truth-teller is asked which door leads to freedom, what would s/he say?"
+      },
+      {
+        "role": "assistant",
+        "content": "A truth-teller would tell the truth about what they would say if asked, so they would point to the door to death."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "A guard is either a truth-teller or a liar. If a liar is asked which door leads to freedom, what would s/he say?"
+      },
+      {
+        "role": "assistant",
+        "content": "A liar would lie about what they would say if asked, so they would point to the door to death."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "A guard asks you: 'If I were to ask the other guard which door leads to freedom, what would s/he say?' The other guard points to the door to death. What would you do?"
+      },
+      {
+        "role": "assistant",
+        "content": "You would take the other door, as both guards would point to the door to death if you asked them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "You are standing in front of two doors with two guards. One guard always tells the truth, and the other always lies. You ask one of the guards: 'If I were to ask the other guard whether this door leads to freedom, what would s/he say?' The guard responds: 'Yes.' What would you do?"
+      },
+      {
+        "role": "assistant",
+        "content": "You would take the other door, as the guard who responded 'yes' would be lying about what the other guard would say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "You are standing in front of two doors with two guards. One guard always tells the truth, and the other always lies. You ask one of the guards: 'If I were to ask the other guard which door leads to freedom, what would s/he say?' The guard responds: 'This door leads to freedom.' What would you do?"
+      },
+      {
+        "role": "assistant",
+        "content": "You would take the other door, as the guard who responded would be lying about what the other guard would say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "A guard asks you: 'If I were to ask you which door leads to freedom, what would you say?' The guard then points to one of the doors. What can you conclude about the guard and the door they pointed to?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the guard is a truth-teller, they would point to the door to death. If the guard is a liar, they would point to the door to freedom."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "You are standing in front of three doors with three guards. One guard always tells the truth, one always lies, and one is a truth-teller half the time and a liar half the time. You ask one of the guards: 'If I were to ask the other two guards which door leads to freedom, what would they say?' The guard responds: 'Both would say this door leads to freedom.' What would you do?"
+      },
+      {
+        "role": "assistant",
+        "content": "You would take the other two doors, as the guard who responded would be lying about what the other two guards would say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "There are five people - A, B, C, D, and E - standing in a line. A and B are married, as are C and D, and E is married to either A or B. What can you conclude about the possible relationships between A, B, C, D, and E?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since A and B are married, and C and D are married, E must be married to one of A or B, but not both. If E was married to C or D, then the other person in that couple would be married to one of A or B, but we know that A and B are already married, so E must be married to either A or B."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "There are five people - A, B, C, D, and E - standing in a line. A is married to one of B, C, or D, and E is married to one of A or B. What can you conclude about the possible relationships between A, B, C, D, and E?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since A is married to one of B, C, or D, and E is married to one of A or B, we know that E must be married to B, as A is already married to one of B, C, or D. Then we can conclude that A is married to C or D, as E is married to B."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+Solution to the Liar and the Truth Teller 
+By Philip S. Thomas, January 2011 (updated July 2014 and May 2017) 
+
+The solution to the original problem is: “If I were to ask the other guard which door leads to freedom, 
+what would s/he say?” If you ask the liar, s/he will lie about what the truth-teller would say, and will point 
+you to the door that leads to death. The truth teller would tell the truth that the liar would point to the 
+door to death. So, both guards would point you towards the door to death, and so you take the other 
+door.  
+
+Of course, the question above is not a yes/no question. However, it can easily be converted into one by 
+pointing towards a door and asking “If I were to ask the other guard whether this door leads to freedom, 
+what would s/he say?” If the response is “yes”, then take the other door. If the response is “no”, then take 
+the door that you pointed to. 
+
+For  the  version  with  only  one  guard,  we  as  (in  yes/no  form):  “If  I  were  to  as  you  which  door  goes  to 
+freedom, what would you say?”. The truth teller would tell the truth and point you to the door to freedom. 
+The liar would lie about what s/he would say if you asked him or her. If you did ask him or her, s/he would 
+tell you the door to death, so s/he lies about this and also points you towards the door the freedom. So, 
+both types of guard would point you toward the correct door. Since this only uses one guard, this is also 
+the solution to the problem with two guards, but where you do not know how many tell the truth and 
+how many lie – you just ignore one of the guards. 
+
+ 
+ 
+ 
+ 
+ 
+

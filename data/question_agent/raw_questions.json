@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "Syllogisms",
+    "question": "All philosophers are thinkers. Some thinkers are not writers. Which of the following conclusions is logically correct based on the statements above?",
+    "choices": [
+      "A) Some philosophers are not writers.",
+      "B) All thinkers are philosophers.",
+      "C) Some writers are philosophers.",
+      "D) No philosopher is a writer."
+    ],
+    "answer": "A",
+    "explanation": "The first statement indicates that all philosophers belong to the group of thinkers but does not imply anything about writers. The second statement tells us that there are thinkers who do not write, but it doesn't specify if any philosophers fall into this category. Thus, option A could be true as some philosophers might not be writers, making it the most logical conclusion from the given premises."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Five friends, Alice, Bob, Charlie, Diana, and Eric, are sitting around a round table. If Alice is directly between Bob and Charlie, and Diana is to the immediate left of Eric, who cannot sit next to Bob? ",
+    "choices": [
+      "A) Charlie",
+      "B) Diana",
+      "C) Eric",
+      "D) None of the above"
+    ],
+    "answer": "B",
+    "explanation": "Since Alice is between Bob and Charlie, Charlie must sit on either side of Alice, making it impossible for her to be next to Bob. Given Diana is immediately left of Eric, Diana cannot sit next to Bob as she would otherwise disrupt the positioning required to keep Alice centrally between Bob and Charlie."
+  },
+  {
+    "topic": "Family tree logic",
+    "question": "In a family tree, if X is the brother of Y's uncle, then what is the relationship between X and Y?",
+    "choices": [
+      "A) Cousin",
+      "B) Nephew",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "X is the brother of Y's uncle, which means X is Y's cousin as they share a common ancestor (Y's grandparents)."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Identify the next element in the following series: 2A, 4D, 8G, 16J, ?",
+    "choices": [
+      "A) 32L",
+      "B) 32M",
+      "C) 32N",
+      "D) 32O"
+    ],
+    "answer": "B",
+    "explanation": "The pattern involves both numerical and alphabetical progression. The numbers double each time: 2, 4, 8, 16, ? where the next number is 32. The letters follow the sequence of every third letter after skipping two letters each time: A to D (+3), D to G (+3), G to J (+3), and thus, J to M (+3). Therefore, the correct answer is 32M."
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "topic": "Mixed Series (Alphanumeric)",
+        "question": "Find the correct alternative that when filled in the blanks in the same sequence will make the series logically complete: _ _ VZ _ V _ V _ ZV _ _ V _",
+        "choices": [
+            "A) VZVVZZZZ",
+            "B) VZZVVZZZ",
+            "C) ZVVZVVZV",
+            "D) ZVZZVZZZ"
+        ],
+        "expected_answer": "C",
+        "explanation": "Option C produces repeated ZVV pattern throughout the sequence."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "F is immediately to the right of E. E is in the fourth position to the right of G. C is sitting next to both B and D. The person to the third position on the left of D is at one of the ends. What is the current location of A?",
+        "choices": [
+            "A) Between the letters E and D",
+            "B) Radical left",
+            "C) Centre",
+            "D) Extremely correct"
+        ],
+        "expected_answer": "D",
+        "explanation": "E is 4th to G's right (G _ _ _ E F). C sits between B and D. Filling the gap gives the sequence G-B-C-D-E-F. Since D is 4th, the person 3rd to its left is G (an end). A takes the remaining spot at the extreme right."
+    },
+    {
+        "topic": "Syllogisms",
+        "question": "Statement I: Some money is cash.\nStatement II: Some cash are draft\nStatement III: All drafts are bills\nConclusion I: Some money are draft\nConclusion II: Some money is bills",
+        "choices": [
+            "A) If only conclusion I follow",
+            "B) If only conclusion II follows",
+            "C) If conclusion I and II both follow",
+            "D) If neither conclusion I nor conclusion II follows"
+        ],
+        "expected_answer": "D",
+        "explanation": "Money-draft overlap is not definite; hence bills also not definite."
+    }
+]
