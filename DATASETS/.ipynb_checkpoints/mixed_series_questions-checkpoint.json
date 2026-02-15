@@ -1,1721 +1,1721 @@
 [
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1, C3, E5, G7, _____",
-        "choices": [
-            "A) H8",
-            "B) I9",
-            "C) J10",
-            "D) I8"
-        ],
-        "answer": "B",
-        "explanation": "Letters skip one position alphabetically (A, C, E, G, I). Numbers increase by 2 each time (1, 3, 5, 7, 9). Hence I9."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z26, Y24, X22, W20, _____",
-        "choices": [
-            "A) V18",
-            "B) U18",
-            "C) V19",
-            "D) V17"
-        ],
-        "answer": "A",
-        "explanation": "Letters go in reverse alphabetical order (Z, Y, X, W, V). Numbers decrease by 2 each time (26, 24, 22, 20, 18). Hence V18."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "2B, 4D, 6F, 8H, _____",
-        "choices": [
-            "A) 10J",
-            "B) 9I",
-            "C) 10I",
-            "D) 9J"
-        ],
-        "answer": "A",
-        "explanation": "Numbers increase by 2 (2, 4, 6, 8, 10). Letters skip one position (B, D, F, H, J). Hence 10J."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1N, O2P, Q3R, S4T, _____",
-        "choices": [
-            "A) U5V",
-            "B) T5U",
-            "C) U6V",
-            "D) V5W"
-        ],
-        "answer": "A",
-        "explanation": "Pattern has pairs of consecutive letters (MN, OP, QR, ST, UV) skipping one letter between pairs. Middle number increases by 1 (1, 2, 3, 4, 5). Hence U5V."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2Z, C4X, E6V, G8T, _____",
-        "choices": [
-            "A) I10R",
-            "B) H10R",
-            "C) I9R",
-            "D) I10S"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips one position forward (A, C, E, G, I). Middle number increases by 2 (2, 4, 6, 8, 10). Last letter goes back by 2 (Z, X, V, T, R). Hence I10R."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1A2, 2B4, 3C6, 4D8, _____",
-        "choices": [
-            "A) 5E10",
-            "B) 5F10",
-            "C) 6E10",
-            "D) 5E9"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (1, 2, 3, 4, 5). Letter follows alphabetically (A, B, C, D, E). Last number doubles the first number (2, 4, 6, 8, 10). Hence 5E10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "JAK, KBL, LCM, MDN, _____",
-        "choices": [
-            "A) OEP",
-            "B) NEO",
-            "C) MEN",
-            "D) PFQ"
-        ],
-        "answer": "B",
-        "explanation": "First and third letters increase alphabetically (J→K→L→M→N, K→L→M→N→O). Middle letter follows alphabetically (A, B, C, D, E). Hence NEO."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2C, D4E, F6G, H8I, _____",
-        "choices": [
-            "A) J10K",
-            "B) I10J",
-            "C) J9K",
-            "D) K10L"
-        ],
-        "answer": "A",
-        "explanation": "Pattern has consecutive letter pairs (BC, DE, FG, HI, JK) skipping one letter between pairs. Middle number increases by 2 (2, 4, 6, 8, 10). Hence J10K."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "3M, 6N, 9O, 12P, _____",
-        "choices": [
-            "A) 15Q",
-            "B) 14Q",
-            "C) 15R",
-            "D) 16Q"
-        ],
-        "answer": "A",
-        "explanation": "Numbers increase by 3 each time (3, 6, 9, 12, 15). Letters follow alphabetically (M, N, O, P, Q). Hence 15Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z1A, Y3B, X5C, W7D, _____",
-        "choices": [
-            "A) V9E",
-            "B) U9E",
-            "C) V8E",
-            "D) V9F"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes backward (Z, Y, X, W, V). Number increases by 2 (1, 3, 5, 7, 9). Last letter goes forward (A, B, C, D, E). Hence V9E."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P16Q, Q14R, R12S, S10T, _____",
-        "choices": [
-            "A) T8U",
-            "B) U8V",
-            "C) T9U",
-            "D) T8V"
-        ],
-        "answer": "A",
-        "explanation": "First letter and last letter are consecutive and follow alphabetically (PQ, QR, RS, ST, TU). Middle number decreases by 2 (16, 14, 12, 10, 8). Hence T8U."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2, C3D4, E5F6, G7H8, _____",
-        "choices": [
-            "A) I9J10",
-            "B) I8J9",
-            "C) H9I10",
-            "D) J9K10"
-        ],
-        "answer": "A",
-        "explanation": "Pattern has consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter between pairs. Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Hence I9J10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "5A10, 7B14, 9C18, 11D22, _____",
-        "choices": [
-            "A) 13E26",
-            "B) 12E24",
-            "C) 13F26",
-            "D) 13E25"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 2 (5, 7, 9, 11, 13). Letter follows alphabetically (A, B, C, D, E). Last number is double the first (10, 14, 18, 22, 26). Hence 13E26."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "BDF, CFI, DGL, EHO, _____",
-        "choices": [
-            "A) FIR",
-            "B) FIS",
-            "C) GIR",
-            "D) FJR"
-        ],
-        "answer": "A",
-        "explanation": "First letter increases by 1 (B, C, D, E, F). Second letter increases by 1 then 2 alternately: B→C(+1), C→F(+3), F→G(+1), G→H(+1), H→I(+1). Third letter increases by 3 (D, F+2→I+3→L+3→O+3→R). Pattern: FIR."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1Z2Y, 3X4W, 5V6U, 7T8S, _____",
-        "choices": [
-            "A) 9R10Q",
-            "B) 9S10R",
-            "C) 8R9Q",
-            "D) 9Q10P"
-        ],
-        "answer": "A",
-        "explanation": "Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Letters go backward in pairs (ZY, XW, VU, TS, RQ). Hence 9R10Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B, C6D, E10F, G14H, _____",
-        "choices": [
-            "A) I18J",
-            "B) H18I",
-            "C) I16J",
-            "D) I17J"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter. Middle number increases by 4 (2, 6, 10, 14, 18). Hence I18J."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M13, L11, K9, J7, _____",
-        "choices": [
-            "A) I5",
-            "B) H5",
-            "C) I6",
-            "D) I4"
-        ],
-        "answer": "A",
-        "explanation": "Letters go backward alphabetically (M, L, K, J, I). Numbers decrease by 2 (13, 11, 9, 7, 5). Hence I5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB1, CD2, EF3, GH4, _____",
-        "choices": [
-            "A) IJ5",
-            "B) HI5",
-            "C) IJ4",
-            "D) JK5"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter between pairs. Numbers increase by 1 (1, 2, 3, 4, 5). Hence IJ5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "2A4, 3B9, 4C16, 5D25, _____",
-        "choices": [
-            "A) 6E36",
-            "B) 6F36",
-            "C) 7E36",
-            "D) 6E35"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (2, 3, 4, 5, 6). Letter follows alphabetically (A, B, C, D, E). Last number is square of first number (4, 9, 16, 25, 36). Hence 6E36."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ1, BY2, CX3, DW4, _____",
-        "choices": [
-            "A) EV5",
-            "B) EU5",
-            "C) EV6",
-            "D) FV5"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A, B, C, D, E). Second letter goes backward (Z, Y, X, W, V). Number increases by 1 (1, 2, 3, 4, 5). Hence EV5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Q4R, S8T, U12V, W16X, _____",
-        "choices": [
-            "A) Y20Z",
-            "B) X20Y",
-            "C) Y19Z",
-            "D) Z20A"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (QR, ST, UV, WX, YZ) skipping one letter between pairs. Middle number increases by 4 (4, 8, 12, 16, 20). Hence Y20Z."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1A1, 2B4, 3C9, 4D16, _____",
-        "choices": [
-            "A) 5E25",
-            "B) 5F25",
-            "C) 6E25",
-            "D) 5E24"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (1, 2, 3, 4, 5). Letter follows alphabetically (A, B, C, D, E). Last number is square of first (1, 4, 9, 16, 25). Hence 5E25."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ACE, BDF, CEG, DFH, _____",
-        "choices": [
-            "A) EGI",
-            "B) EFG",
-            "C) EHI",
-            "D) FGH"
-        ],
-        "answer": "A",
-        "explanation": "Each term has three letters with gaps of one. Pattern shifts by one letter: ACE→BDF→CEG→DFH→EGI. Hence EGI."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z26Y, X24W, V22U, T20S, _____",
-        "choices": [
-            "A) R18Q",
-            "B) S18R",
-            "C) R19Q",
-            "D) Q18P"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes back by 2 (Z, X, V, T, R). Number decreases by 2 (26, 24, 22, 20, 18). Last letter goes back by 2 (Y, W, U, S, Q). Hence R18Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3, D4E5F6, G7H8I9, _____",
-        "choices": [
-            "A) J10K11L12",
-            "B) J9K10L11",
-            "C) I10J11K12",
-            "D) K10L11M12"
-        ],
-        "answer": "A",
-        "explanation": "Pattern has three consecutive letter-number pairs. Letters skip two positions (A,D,G,J). Numbers continue sequentially (1,2,3...10,11,12). Hence J10K11L12."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D4, F8H16, J32L64, _____",
-        "choices": [
-            "A) N128P256",
-            "B) M128O256",
-            "C) N64P128",
-            "D) N128O256"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip three positions (B,F,J,N then D,H,L,P - each pair skips 3). Numbers double each time (2,4,8,16,32,64,128,256). Hence N128P256."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z26, B2Y25, C3X24, D4W23, _____",
-        "choices": [
-            "A) E5V22",
-            "B) E5U22",
-            "C) E6V22",
-            "D) F5V22"
-        ],
-        "answer": "A",
-        "explanation": "First letter and number increase by 1. Last letter and number decrease by 1 (Z26, Y25, X24, W23, V22). Hence E5V22."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P1Q2, R4S8, T16U32, _____",
-        "choices": [
-            "A) V64W128",
-            "B) V32W64",
-            "C) U64V128",
-            "D) W64X128"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW) skipping one letter between pairs. Numbers double each time (1,2,4,8,16,32,64,128). Hence V64W128."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "BCB, DED, FGF, HIH, _____",
-        "choices": [
-            "A) JKJ",
-            "B) HJH",
-            "C) IJI",
-            "D) JHJ"
-        ],
-        "answer": "A",
-        "explanation": "First two letters progress alphabetically in pairs (B,C→D,E→F,G→H,I→J,K). Third letter repeats first letter. Hence JKJ."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2Z, C4Y, E6X, G8W, _____",
-        "choices": [
-            "A) I10V",
-            "B) H10V",
-            "C) I9V",
-            "D) I10U"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips one (A,C,E,G,I). Middle number increases by 2 (2,4,6,8,10). Last letter goes backward by 1 (Z,Y,X,W,V). Hence I10V."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M13N14, O15P16, Q17R18, S19T20, _____",
-        "choices": [
-            "A) U21V22",
-            "B) T21U22",
-            "C) U20V21",
-            "D) V21W22"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (MN, OP, QR, ST, UV) skipping one letter. Numbers increase consecutively (13,14,15,16...21,22). Hence U21V22."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1A2B, 3C4D, 5E6F, 7G8H, _____",
-        "choices": [
-            "A) 9I10J",
-            "B) 8I9J",
-            "C) 9H10I",
-            "D) 9J10K"
-        ],
-        "answer": "A",
-        "explanation": "Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Letters follow alphabetically (A,B,C,D,E,F,G,H,I,J). Hence 9I10J."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB12, CD34, EF56, GH78, _____",
-        "choices": [
-            "A) IJ90",
-            "B) IJ910",
-            "C) HI90",
-            "D) IJ89"
-        ],
-        "answer": "A",
-        "explanation": "Letter pairs skip one (AB, CD, EF, GH, IJ). Numbers: first digit increases by 2 (1,3,5,7,9), second digit increases by 2 (2,4,6,8,0→10 becomes 90). Hence IJ90."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ5, BY10, CX15, DW20, _____",
-        "choices": [
-            "A) EV25",
-            "B) EU25",
-            "C) EV24",
-            "D) FV25"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes backward (Z,Y,X,W,V). Number increases by 5 (5,10,15,20,25). Hence EV25."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "2B4, 4D16, 6F36, 8H64, _____",
-        "choices": [
-            "A) 10J100",
-            "B) 9I81",
-            "C) 10I100",
-            "D) 10J81"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 2 (2,4,6,8,10). Letter skips one (B,D,F,H,J). Last number is square of first (4,16,36,64,100). Hence 10J100."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZA_5, Y_4B, XC_6, W_3D, _____",
-        "choices": [
-            "A) E_7V",
-            "B) V_2E",
-            "C) VE_5",
-            "D) VE_7"
-        ],
-        "answer": "D",
-        "explanation": "First letter goes backward (Z,Y,X,W,V). Second letter goes forward (A,B,C,D,E). Numbers alternate: 5,4,6,3,7. Hence VE_7."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1, B1, C2, D3, E5, F8, _____",
-        "choices": [
-            "A) G13",
-            "B) G12",
-            "C) H13",
-            "D) F13"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically (A,B,C,D,E,F,G). Numbers follow Fibonacci sequence (1,1,2,3,5,8,13). Hence G13."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P5Q, R10S, T15U, V20W, _____",
-        "choices": [
-            "A) X25Y",
-            "B) W25X",
-            "C) X24Y",
-            "D) Y25Z"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one letter. Middle number increases by 5 (5,10,15,20,25). Hence X25Y."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D, D4F, F6H, H8J, _____",
-        "choices": [
-            "A) J10L",
-            "B) I10K",
-            "C) J9L",
-            "D) K10M"
-        ],
-        "answer": "A",
-        "explanation": "First and third letters skip one position (B,D,F,H,J then D,F,H,J,L). Middle number increases by 2 (2,4,6,8,10). Hence J10L."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1A26, 2B25, 3C24, 4D23, _____",
-        "choices": [
-            "A) 5E22",
-            "B) 5F22",
-            "C) 6E22",
-            "D) 5E21"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (1,2,3,4,5). Letter follows alphabetically (A,B,C,D,E). Last number decreases by 1 (26,25,24,23,22). Hence 5E22."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ABC1, DEF2, GHI3, JKL4, _____",
-        "choices": [
-            "A) MNO5",
-            "B) LMN5",
-            "C) MNO4",
-            "D) NOP5"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters (ABC, DEF, GHI, JKL, MNO). Number increases by 1 (1,2,3,4,5). Hence MNO5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z1Y2, X3W4, V5U6, T7S8, _____",
-        "choices": [
-            "A) R9Q10",
-            "B) S9R10",
-            "C) R8Q9",
-            "D) Q9P10"
-        ],
-        "answer": "A",
-        "explanation": "Letters go backward in pairs (ZY, XW, VU, TS, RQ) skipping one letter between pairs. Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Hence R9Q10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C, D3E4F, G5H6I, J7K8L, _____",
-        "choices": [
-            "A) M9N10O",
-            "B) M8N9O",
-            "C) L9M10N",
-            "D) N9O10P"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two positions for first letter (A,D,G,J,M) then continue consecutively. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Hence M9N10O."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A5, C10, E15, G20, _____",
-        "choices": [
-            "A) I25",
-            "B) H25",
-            "C) I24",
-            "D) I20"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip one position (A,C,E,G,I). Numbers increase by 5 (5,10,15,20,25). Hence I25."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1M, N2N, O3O, P4P, _____",
-        "choices": [
-            "A) Q5Q",
-            "B) P5P",
-            "C) Q4Q",
-            "D) R5R"
-        ],
-        "answer": "A",
-        "explanation": "Same letter repeated with number in between. Letter follows alphabetically (M,N,O,P,Q). Number increases by 1 (1,2,3,4,5). Hence Q5Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "2A2, 3B6, 4C12, 5D20, _____",
-        "choices": [
-            "A) 6E30",
-            "B) 6F30",
-            "C) 7E30",
-            "D) 6E28"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (2,3,4,5,6). Letter follows alphabetically (A,B,C,D,E). Last number is first number × (first number-1): 2×1=2, 3×2=6, 4×3=12, 5×4=20, 6×5=30. Hence 6E30."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ACE2, BDF4, CEG6, DFH8, _____",
-        "choices": [
-            "A) EGI10",
-            "B) EFG10",
-            "C) EHI10",
-            "D) FGH10"
-        ],
-        "answer": "A",
-        "explanation": "Three letters with gaps of one, shifting forward by one: ACE→BDF→CEG→DFH→EGI. Number increases by 2 (2,4,6,8,10). Hence EGI10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZYX26, WVU23, TSR20, QPO17, _____",
-        "choices": [
-            "A) NML14",
-            "B) MLK14",
-            "C) NML15",
-            "D) ONM14"
-        ],
-        "answer": "A",
-        "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML). Number decreases by 3 (26,23,20,17,14). Hence NML14."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B3C, D5E6F, G8H9I, J11K12L, _____",
-        "choices": [
-            "A) M14N15O",
-            "B) M13N14O",
-            "C) L14M15N",
-            "D) N14O15P"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two positions for first letter (A,D,G,J,M) then consecutive. Numbers: pattern is +1, +2, +3, etc. continuing from previous. Hence M14N15O."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B1D3, F5H7, J9L11, N13P15, _____",
-        "choices": [
-            "A) R17T19",
-            "B) Q17S19",
-            "C) R16T18",
-            "D) R17S19"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip three positions (B,F,J,N,R then D,H,L,P,T). Numbers increase by 2 each (1,3,5,7,9,11,13,15,17,19). Hence R17T19."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z26, C3X24, E5V22, G7T20, _____",
-        "choices": [
-            "A) I9R18",
-            "B) H9R18",
-            "C) I8R18",
-            "D) I9S18"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips one forward (A,C,E,G,I). First number increases by 2 (1,3,5,7,9). Second letter goes back by 2 (Z,X,V,T,R). Last number decreases by 2 (26,24,22,20,18). Hence I9R18."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB2, DE4, GH6, JK8, _____",
-        "choices": [
-            "A) MN10",
-            "B) LM10",
-            "C) MN9",
-            "D) NO10"
-        ],
-        "answer": "A",
-        "explanation": "Letter pairs skip two positions (AB, DE, GH, JK, MN). Number increases by 2 (2,4,6,8,10). Hence MN10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M13N, L11O, K9P, J7Q, _____",
-        "choices": [
-            "A) I5R",
-            "B) H5R",
-            "C) I6R",
-            "D) I5S"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes backward (M,L,K,J,I). Number decreases by 2 (13,11,9,7,5). Last letter goes forward (N,O,P,Q,R). Hence I5R."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B1, C2D3, E5F8, G13H21, _____",
-        "choices": [
-            "A) I34J55",
-            "B) I33J54",
-            "C) H34I55",
-            "D) J34K55"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically. Numbers follow Fibonacci: 1,1,2,3,5,8,13,21,34,55. Hence I34J55."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P16Q17, R14S15, T12U13, V10W11, _____",
-        "choices": [
-            "A) X8Y9",
-            "B) W8X9",
-            "C) X9Y10",
-            "D) X7Y8"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number of each pair decreases by 2 (16,14,12,10,8). Second number follows. Hence X8Y9."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1A1, 2B8, 3C27, 4D64, _____",
-        "choices": [
-            "A) 5E125",
-            "B) 5F125",
-            "C) 6E125",
-            "D) 5E124"
-        ],
-        "answer": "A",
-        "explanation": "First number increases by 1 (1,2,3,4,5). Letter follows alphabetically (A,B,C,D,E). Last number is cube of first (1,8,27,64,125). Hence 5E125."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZB, CYD, EXF, GWH, _____",
-        "choices": [
-            "A) IVJ",
-            "B) HVJ",
-            "C) IUJ",
-            "D) IVK"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips one forward (A,C,E,G,I). Middle letter goes backward by 1 (Z,Y,X,W,V). Last letter skips one forward (B,D,F,H,J). Hence IVJ."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3D, E5F6G7H, I9J10K11L, _____",
-        "choices": [
-            "A) M13N14O15P",
-            "B) M12N13O14P",
-            "C) L13M14N15O",
-            "D) N13O14P15Q"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip three positions for first letter (A,E,I,M) then consecutive within group. Numbers continue sequentially (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16). Hence M13N14O15P."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z26, Y24, X22, W20, V18, _____",
-        "choices": [
-            "A) U16",
-            "B) T16",
-            "C) U15",
-            "D) U17"
-        ],
-        "answer": "A",
-        "explanation": "Letters go backward alphabetically (Z,Y,X,W,V,U). Numbers decrease by 2 (26,24,22,20,18,16). Hence U16."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2C, D4F, G6I, J8L, _____",
-        "choices": [
-            "A) M10O",
-            "B) L10N",
-            "C) M9O",
-            "D) N10P"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips two (A,D,G,J,M). Middle number increases by 2 (2,4,6,8,10). Last letter skips two (C,F,I,L,O). Hence M10O."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B1C2D, E3F4G, H5I6J, K7L8M, _____",
-        "choices": [
-            "A) N9O10P",
-            "B) N8O9P",
-            "C) M9N10O",
-            "D) O9P10Q"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two for first letter (B,E,H,K,N) then consecutive. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Hence N9O10P."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "1AB, 2CD, 3EF, 4GH, _____",
-        "choices": [
-            "A) 5IJ",
-            "B) 5HI",
-            "C) 4IJ",
-            "D) 6IJ"
-        ],
-        "answer": "A",
-        "explanation": "Number increases by 1 (1,2,3,4,5). Letter pairs skip one (AB, CD, EF, GH, IJ). Hence 5IJ."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A5Z, B10Y, C15X, D20W, _____",
-        "choices": [
-            "A) E25V",
-            "B) E24V",
-            "C) E25U",
-            "D) F25V"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A,B,C,D,E). Number increases by 5 (5,10,15,20,25). Last letter goes backward (Z,Y,X,W,V). Hence E25V."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ACE1, BDF2, CEG3, DFH4, _____",
-        "choices": [
-            "A) EGI5",
-            "B) EFG5",
-            "C) EHJ5",
-            "D) FGH5"
-        ],
-        "answer": "A",
-        "explanation": "Three letters with gap of 1 shifting forward: ACE→BDF→CEG→DFH→EGI. Number increases by 1 (1,2,3,4,5). Hence EGI5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P1Q2R, S3T4U, V5W6X, Y7Z8A, _____",
-        "choices": [
-            "A) B9C10D",
-            "B) B8C9D",
-            "C) A9B10C",
-            "D) C9D10E"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters in groups. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Letters continue after Z to A,B,C. Hence B9C10D."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1A, B2B, C4C, D8D, _____",
-        "choices": [
-            "A) E16E",
-            "B) E15E",
-            "C) D16D",
-            "D) F16F"
-        ],
-        "answer": "A",
-        "explanation": "Same letter repeated. Letter follows alphabetically (A,B,C,D,E). Middle number doubles each time (1,2,4,8,16). Hence E16E."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZY1, XW2, VU3, TS4, _____",
-        "choices": [
-            "A) RQ5",
-            "B) SR5",
-            "C) RQ6",
-            "D) QR5"
-        ],
-        "answer": "A",
-        "explanation": "Letter pairs go backward (ZY, XW, VU, TS, RQ) skipping one letter between pairs. Number increases by 1 (1,2,3,4,5). Hence RQ5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB12CD, EF34GH, IJ56KL, MN78OP, _____",
-        "choices": [
-            "A) QR910ST",
-            "B) QR90ST",
-            "C) PQ910RS",
-            "D) QR89ST"
-        ],
-        "answer": "B",
-        "explanation": "Letter groups of 4 skip one letter between groups. Numbers: first digit increases by 2 (1,3,5,7,9), second by 2 (2,4,6,8,10→0). Pattern continues as 90. Hence QR90ST."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z26B, C3X24D, E5V22F, G7T20H, _____",
-        "choices": [
-            "A) I9R18J",
-            "B) H9R18I",
-            "C) I8R18J",
-            "D) I9S18J"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips one (A,C,E,G,I). First number increases by 2. Middle letters go back by 2 (Z,X,V,T,R). Last numbers decrease by 2. Final letter follows first. Hence I9R18J."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1, L2, K4, J8, _____",
-        "choices": [
-            "A) I16",
-            "B) H16",
-            "C) I15",
-            "D) I8"
-        ],
-        "answer": "A",
-        "explanation": "Letters go backward alphabetically (M,L,K,J,I). Numbers double each time (1,2,4,8,16). Hence I16."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B4C, D8E16F, G32H64I, _____",
-        "choices": [
-            "A) J128K256L",
-            "B) J64K128L",
-            "C) I128J256K",
-            "D) K128L256M"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers double each time (2,4,8,16,32,64,128,256). Hence J128K256L."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2, C3D5, E8F13, G21H34, _____",
-        "choices": [
-            "A) I55J89",
-            "B) I54J88",
-            "C) H55I89",
-            "D) J55K89"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically. Numbers follow Fibonacci sequence (1,2,3,5,8,13,21,34,55,89). Hence I55J89."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2C3, D5E7, F11G13, H17I19, _____",
-        "choices": [
-            "A) J23K29",
-            "B) J22K28",
-            "C) I23J29",
-            "D) K23L29"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow consecutively. Numbers are prime numbers (2,3,5,7,11,13,17,19,23,29). Hence J23K29."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZA1, YB2, XC3, WD4, _____",
-        "choices": [
-            "A) VE5",
-            "B) UE5",
-            "C) VF5",
-            "D) VE6"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes backward (Z,Y,X,W,V). Second letter goes forward (A,B,C,D,E). Number increases by 1 (1,2,3,4,5). Hence VE5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B1C2, D3E5F8, G13H21I34, _____",
-        "choices": [
-            "A) J55K89L144",
-            "B) J54K88L143",
-            "C) I55J89K144",
-            "D) K55L89M144"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers follow Fibonacci (1,1,2,3,5,8,13,21,34,55,89,144). Hence J55K89L144."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ABC123, DEF456, GHI789, _____",
-        "choices": [
-            "A) JKL101112",
-            "B) JKL111213",
-            "C) IJK101112",
-            "D) KLM101112"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters (ABC, DEF, GHI, JKL). Three consecutive numbers continuing from previous (123, 456, 789, 101112). Hence JKL101112."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P5Q10, R15S20, T25U30, V35W40, _____",
-        "choices": [
-            "A) X45Y50",
-            "B) W45X50",
-            "C) X44Y49",
-            "D) Y45Z50"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number increases by 5 (5,10,15,20,25,30,35,40,45,50) where pairs go (5,10), (15,20), etc. Hence X45Y50."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B, C4D, E8F, G16H, _____",
-        "choices": [
-            "A) I32J",
-            "B) H32I",
-            "C) I31J",
-            "D) J32K"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one. Middle number doubles (2,4,8,16,32). Hence I32J."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1N2O3, P4Q5R6, S7T8U9, _____",
-        "choices": [
-            "A) V10W11X12",
-            "B) V9W10X11",
-            "C) U10V11W12",
-            "D) W10X11Y12"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Letters skip two for first letter (M,P,S,V). Hence V10W11X12."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ26, BY25, CX24, DW23, _____",
-        "choices": [
-            "A) EV22",
-            "B) EU22",
-            "C) EV23",
-            "D) FV22"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes backward (Z,Y,X,W,V). Number decreases by 1 (26,25,24,23,22). Hence EV22."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3D4, E5F6G7H8, I9J10K11L12, _____",
-        "choices": [
-            "A) M13N14O15P16",
-            "B) M12N13O14P15",
-            "C) L13M14N15O16",
-            "D) N13O14P15Q16"
-        ],
-        "answer": "A",
-        "explanation": "Four consecutive letters. Numbers increase sequentially. Letters skip three for first letter (A,E,I,M). Numbers continue (13,14,15,16). Hence M13N14O15P16."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D4F, G6I8K, L10N12P, Q14S16U, _____",
-        "choices": [
-            "A) V18X20Z",
-            "B) U18W20Y",
-            "C) V17X19Z",
-            "D) W18Y20A"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping one between each. First letter of group skips four (B,G,L,Q,V). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20). Hence V18X20Z."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1, D4, G7, J10, _____",
-        "choices": [
-            "A) M13",
-            "B) L13",
-            "C) M12",
-            "D) M14"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two positions (A,D,G,J,M). Numbers increase by 3 (1,4,7,10,13). Hence M13."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB1CD, EF2GH, IJ3KL, MN4OP, _____",
-        "choices": [
-            "A) QR5ST",
-            "B) PQ5RS",
-            "C) QR4ST",
-            "D) RS5TU"
-        ],
-        "answer": "A",
-        "explanation": "Four-letter groups. First two letters skip one (AB,EF,IJ,MN,QR). Number increases by 1 (1,2,3,4,5). Last two letters follow pattern. Hence QR5ST."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "Z26Y25, X24W23, V22U21, T20S19, _____",
-        "choices": [
-            "A) R18Q17",
-            "B) S18R17",
-            "C) R19Q18",
-            "D) Q18P17"
-        ],
-        "answer": "A",
-        "explanation": "Letter pairs go backward (ZY, XW, VU, TS, RQ) skipping one between pairs. Numbers decrease consecutively (26,25,24,23,22,21,20,19,18,17). Hence R18Q17."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B3C5, D7E11F13, G17H19I23, _____",
-        "choices": [
-            "A) J29K31L37",
-            "B) J28K30L36",
-            "C) I29J31K37",
-            "D) K29L31M37"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers are prime numbers (2,3,5,7,11,13,17,19,23,29,31,37). Hence J29K31L37."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1M, N4N, O9O, P16P, _____",
-        "choices": [
-            "A) Q25Q",
-            "B) Q24Q",
-            "C) P25P",
-            "D) R25R"
-        ],
-        "answer": "A",
-        "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q). Middle number is square: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25. Hence Q25Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ACE2, FHJ4, KMO6, PRT8, _____",
-        "choices": [
-            "A) UWY10",
-            "B) TVX10",
-            "C) UWY9",
-            "D) VXZ10"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping one between each. First letter skips four (A,F,K,P,U). Numbers increase by 2 (2,4,6,8,10). Hence UWY10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2, C2D4, E3F6, G4H8, _____",
-        "choices": [
-            "A) I5J10",
-            "B) I4J8",
-            "C) H5I10",
-            "D) J5K10"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip one (A,C,E,G,I then B,D,F,H,J). First number increases by 1 (1,2,3,4,5). Second number doubles first (2,4,6,8,10). Hence I5J10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZYX1, WVU2, TSR3, QPO4, _____",
-        "choices": [
-            "A) NML5",
-            "B) MLK5",
-            "C) NML6",
-            "D) ONM5"
-        ],
-        "answer": "A",
-        "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML). Number increases by 1 (1,2,3,4,5). Hence NML5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z, B2Y, C3X, D4W, _____",
-        "choices": [
-            "A) E5V",
-            "B) E5U",
-            "C) E6V",
-            "D) F5V"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A,B,C,D,E). Number increases by 1 (1,2,3,4,5). Last letter goes backward (Z,Y,X,W,V). Hence E5V."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB12, CD23, EF34, GH45, _____",
-        "choices": [
-            "A) IJ56",
-            "B) HI56",
-            "C) IJ55",
-            "D) JK56"
-        ],
-        "answer": "A",
-        "explanation": "Letter pairs skip one (AB, CD, EF, GH, IJ). Numbers: first digit increases by 1 (1,2,3,4,5), second digit increases by 1 (2,3,4,5,6). Hence IJ56."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P1Q2R3, S4T5U6, V7W8X9, _____",
-        "choices": [
-            "A) Y10Z11A12",
-            "B) Y9Z10A11",
-            "C) X10Y11Z12",
-            "D) Z10A11B12"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Letters skip two for first letter (P,S,V,Y). Hence Y10Z11A12."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B4, C8D16, E32F64, _____",
-        "choices": [
-            "A) G128H256",
-            "B) G64H128",
-            "C) F128G256",
-            "D) H128I256"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip one (A,C,E,G then B,D,F,H). Numbers double each time (2,4,8,16,32,64,128,256). Hence G128H256."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1N2, O3P5, Q8R13, S21T34, _____",
-        "choices": [
-            "A) U55V89",
-            "B) U54V88",
-            "C) T55U89",
-            "D) V55W89"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically. Numbers follow Fibonacci sequence (1,2,3,5,8,13,21,34,55,89). Hence U55V89."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ1BY, CX2DW, EU3FV, GT4HU, _____",
-        "choices": [
-            "A) IS5JT",
-            "B) HS5IT",
-            "C) IS6JT",
-            "D) IR5JS"
-        ],
-        "answer": "A",
-        "explanation": "Pattern: two letters (A,C,E,G,I) skipping one, then letter backward (Z,X,V,T,R→but here different pattern). Number increases. Complex alternating pattern gives IS5JT."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3, D4E5F6, G7H8I9, J10K11L12, _____",
-        "choices": [
-            "A) M13N14O15",
-            "B) M12N13O14",
-            "C) L13M14N15",
-            "D) N13O14P15"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters. Numbers increase sequentially. Letters skip two for first letter (A,D,G,J,M). Numbers continue (13,14,15). Hence M13N14O15."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D4F6, H8J10L12, N14P16R18, _____",
-        "choices": [
-            "A) T20V22X24",
-            "B) S20U22W24",
-            "C) T19V21X23",
-            "D) T20U22V24"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping one between each. First letter skips five (B,H,N,T). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20,22,24). Hence T20V22X24."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1, C4, E9, G16, _____",
-        "choices": [
-            "A) I25",
-            "B) H25",
-            "C) I24",
-            "D) I16"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip one position (A,C,E,G,I). Numbers are perfect squares (1²=1, 2²=4, 3²=9, 4²=16, 5²=25). Hence I25."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZA1, YB2, XC3, WD4, VE5, _____",
-        "choices": [
-            "A) UF6",
-            "B) TF6",
-            "C) UG6",
-            "D) UF7"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes backward (Z,Y,X,W,V,U). Second letter goes forward (A,B,C,D,E,F). Number increases by 1 (1,2,3,4,5,6). Hence UF6."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B3, D5E7, G11H13, J17K19, _____",
-        "choices": [
-            "A) M23N29",
-            "B) M22N28",
-            "C) L23M29",
-            "D) N23O29"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip two (A,D,G,J,M then B,E,H,K,N). Numbers are consecutive primes (2,3,5,7,11,13,17,19,23,29). Hence M23N29."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ABC1, DEF8, GHI27, JKL64, _____",
-        "choices": [
-            "A) MNO125",
-            "B) MNO124",
-            "C) LMN125",
-            "D) NOP125"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping two for first letter (A,D,G,J,M). Numbers are cubes (1³=1, 2³=8, 3³=27, 4³=64, 5³=125). Hence MNO125."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P5Q6, R10S12, T15U18, V20W24, _____",
-        "choices": [
-            "A) X25Y30",
-            "B) W25X30",
-            "C) X24Y29",
-            "D) Y25Z30"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number increases by 5 (5,10,15,20,25). Second number increases by 6 (6,12,18,24,30). Hence X25Y30."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B1C1, D2E2F2, G3H3I3, J4K4L4, _____",
-        "choices": [
-            "A) M5N5O5",
-            "B) M4N4O4",
-            "C) L5M5N5",
-            "D) N5O5P5"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters. Same number repeated three times, increasing by 1 each group (1,2,3,4,5). Letters skip two for first (A,D,G,J,M). Hence M5N5O5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B1D2F3, H4J5L6, N7P8R9, _____",
-        "choices": [
-            "A) T10V11X12",
-            "B) S10U11W12",
-            "C) T9V10X11",
-            "D) T10U11V12"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping one between each. First letter skips five (B,H,N,T). Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Hence T10V11X12."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ26BY25, CX24DW23, EU22FV21, _____",
-        "choices": [
-            "A) GT20HU19",
-            "B) GS20HT19",
-            "C) GT21HU20",
-            "D) FS20GT19"
-        ],
-        "answer": "A",
-        "explanation": "Complex pattern: A→C→E→G (skip 1), Z→X→U→T (back 2 then skip), numbers decrease. Pattern gives GT20HU19."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1, N2, O4, P8, Q16, _____",
-        "choices": [
-            "A) R32",
-            "B) R31",
-            "C) Q32",
-            "D) S32"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically (M,N,O,P,Q,R). Numbers double each time (1,2,4,8,16,32). Hence R32."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C4, D8E16F32, _____",
-        "choices": [
-            "A) G64H128I256",
-            "B) G32H64I128",
-            "C) F64G128H256",
-            "D) H64I128J256"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping two for first (A,D,G). Numbers double each time (1,2,4,8,16,32,64,128,256). Hence G64H128I256."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB2CD4, EF6GH8, IJ10KL12, _____",
-        "choices": [
-            "A) MN14OP16",
-            "B) MN13OP15",
-            "C) LM14NO16",
-            "D) NO14PQ16"
-        ],
-        "answer": "A",
-        "explanation": "Four-letter groups: first two letters skip one (AB,EF,IJ,MN). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16). Hence MN14OP16."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZYX26, WVU23, TSR20, QPO17, NML14, _____",
-        "choices": [
-            "A) KJI11",
-            "B) JIH11",
-            "C) KJI12",
-            "D) LKJ11"
-        ],
-        "answer": "A",
-        "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML, KJI). Number decreases by 3 (26,23,20,17,14,11). Hence KJI11."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3D4E5, F6G7H8I9J10, _____",
-        "choices": [
-            "A) K11L12M13N14O15",
-            "B) K10L11M12N13O14",
-            "C) J11K12L13M14N15",
-            "D) L11M12N13O14P15"
-        ],
-        "answer": "A",
-        "explanation": "Five consecutive letters. Numbers increase sequentially. Letters skip four for first (A,F,K). Numbers continue (11,12,13,14,15). Hence K11L12M13N14O15."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AC1, DF2, GI3, JL4, _____",
-        "choices": [
-            "A) MO5",
-            "B) LN5",
-            "C) MO4",
-            "D) NO5"
-        ],
-        "answer": "A",
-        "explanation": "Two letters skipping one between each (AC, DF, GI, JL, MO). First letter skips two (A,D,G,J,M). Number increases by 1 (1,2,3,4,5). Hence MO5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P16Q, R14S, T12U, V10W, _____",
-        "choices": [
-            "A) X8Y",
-            "B) W8X",
-            "C) X9Y",
-            "D) X7Y"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. Middle number decreases by 2 (16,14,12,10,8). Hence X8Y."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z26, B3Y24, C5X22, D7W20, _____",
-        "choices": [
-            "A) E9V18",
-            "B) E9U18",
-            "C) E8V18",
-            "D) F9V18"
-        ],
-        "answer": "A",
-        "explanation": "First letter and first number increase (A1, B3, C5, D7, E9 - letter +1, number +2). Last letter and number decrease (Z26, Y24, X22, W20, V18 - letter -1, number -2). Hence E9V18."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "BCD2, EFG4, HIJ6, KLM8, _____",
-        "choices": [
-            "A) NOP10",
-            "B) MNO10",
-            "C) NOP9",
-            "D) OPQ10"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping one for first letter (B,E,H,K,N). Number increases by 2 (2,4,6,8,10). Hence NOP10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B3C5, D7E11F13, G17H19I23, J29K31L37, _____",
-        "choices": [
-            "A) M41N43O47",
-            "B) M40N42O46",
-            "C) L41M43N47",
-            "D) N41O43P47"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping two for first letter (A,D,G,J,M). Numbers are consecutive prime numbers (2,3,5,7,11,13,17,19,23,29,31,37,41,43,47). Hence M41N43O47."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1M, N4N, O16O, P64P, _____",
-        "choices": [
-            "A) Q256Q",
-            "B) Q255Q",
-            "C) P256P",
-            "D) R256R"
-        ],
-        "answer": "A",
-        "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q). Middle number is power of 4 (4⁰=1, 4¹=4, 4²=16, 4³=64, 4⁴=256). Hence Q256Q."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB1CD2, EF3GH4, IJ5KL6, MN7OP8, _____",
-        "choices": [
-            "A) QR9ST10",
-            "B) PQ9RS10",
-            "C) QR8ST9",
-            "D) RS9TU10"
-        ],
-        "answer": "A",
-        "explanation": "Four-letter groups: letters skip one for first pair (AB,EF,IJ,MN,QR). Numbers increase by 1 alternating (1,2,3,4,5,6,7,8,9,10). Hence QR9ST10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B1, C2D4, E3F9, G4H16, _____",
-        "choices": [
-            "A) I5J25",
-            "B) I5J24",
-            "C) H5I25",
-            "D) J5K25"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip one (A,C,E,G,I then B,D,F,H,J). First number increases by 1 (1,2,3,4,5). Second number is square of first (1,4,9,16,25). Hence I5J25."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P1Q1, R1S2, T3U5, V8W13, _____",
-        "choices": [
-            "A) X21Y34",
-            "B) X20Y33",
-            "C) W21X34",
-            "D) Y21Z34"
-        ],
-        "answer": "A",
-        "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. Numbers follow Fibonacci (1,1,1,2,3,5,8,13,21,34). Hence X21Y34."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AE1, BF2, CG3, DH4, _____",
-        "choices": [
-            "A) EI5",
-            "B) DI5",
-            "C) EJ5",
-            "D) FI5"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes forward with gap of 4 (E,F,G,H,I). Number increases by 1 (1,2,3,4,5). Hence EI5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZYX1, VUT2, RQP3, NML4, _____",
-        "choices": [
-            "A) JIH5",
-            "B) IHG5",
-            "C) JIH6",
-            "D) KJI5"
-        ],
-        "answer": "A",
-        "explanation": "Three letters in reverse going backward, skipping two letters between groups (ZYX, VUT, RQP, NML, JIH). Number increases by 1 (1,2,3,4,5). Hence JIH5."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3D4, E2F4G6H8, I3J6K9L12, _____",
-        "choices": [
-            "A) M4N8O12P16",
-            "B) M3N6O9P12",
-            "C) L4M8N12O16",
-            "D) N4O8P12Q16"
-        ],
-        "answer": "A",
-        "explanation": "Four consecutive letters skipping three for first (A,E,I,M). First number increases by 1 (1,2,3,4). Subsequent numbers are multiples of first (1:1,2,3,4; 2:2,4,6,8; 3:3,6,9,12; 4:4,8,12,16). Hence M4N8O12P16."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D4F6H8, J10L12N14P16, _____",
-        "choices": [
-            "A) R18T20V22X24",
-            "B) Q18S20U22W24",
-            "C) R17T19V21X23",
-            "D) R18S20T22U24"
-        ],
-        "answer": "A",
-        "explanation": "Four letters skipping one between each. First letter skips seven (B,J,R). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20,22,24). Hence R18T20V22X24."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1, B1, C2, D3, E5, F8, G13, H21, _____",
-        "choices": [
-            "A) I34",
-            "B) I33",
-            "C) H34",
-            "D) J34"
-        ],
-        "answer": "A",
-        "explanation": "Letters follow alphabetically (A,B,C,D,E,F,G,H,I). Numbers follow Fibonacci sequence (1,1,2,3,5,8,13,21,34). Hence I34."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB12CD, CD23DE, EF34FG, GH45HI, _____",
-        "choices": [
-            "A) IJ56JK",
-            "B) HI56IJ",
-            "C) IJ55JK",
-            "D) JK56KL"
-        ],
-        "answer": "A",
-        "explanation": "Pattern has overlapping pairs: AB-CD, CD-DE (CD repeats), EF-FG (F repeats), GH-HI (H repeats), IJ-JK (J repeats). Numbers: first increases by 1 (1,2,3,4,5), second by 1 (2,3,4,5,6). Hence IJ56JK."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M13, L12, K11, J10, I9, _____",
-        "choices": [
-            "A) H8",
-            "B) G8",
-            "C) H7",
-            "D) H9"
-        ],
-        "answer": "A",
-        "explanation": "Letters go backward alphabetically (M,L,K,J,I,H). Numbers decrease by 1 (13,12,11,10,9,8). Hence H8."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2C4E, F6H8J, K10M12O, P14R16T, _____",
-        "choices": [
-            "A) U18W20Y",
-            "B) T18V20X",
-            "C) U17W19Y",
-            "D) U18V20W"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping one between each. First letter skips four (A,F,K,P,U). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20). Hence U18W20Y."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AZ1BY2, CX3DW4, EU5FV6, GT7HU8, _____",
-        "choices": [
-            "A) IS9JT10",
-            "B) HS9IT10",
-            "C) IS10JT11",
-            "D) IR9JS10"
-        ],
-        "answer": "A",
-        "explanation": "Complex pattern: first letter skips one (A,C,E,G,I), second goes back by 2 (Z,X,V,T,R→but adjusted to S), numbers increase. Pattern gives IS9JT10."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3, D2E4F6, G3H6I9, J4K8L12, _____",
-        "choices": [
-            "A) M5N10O15",
-            "B) M4N8O12",
-            "C) L5M10N15",
-            "D) N5O10P15"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping two for first (A,D,G,J,M). First number increases by 1 (1,2,3,4,5). Pattern multiplies: 1×(1,2,3), 2×(1,2,3), 3×(1,2,3), 4×(1,2,3), 5×(1,2,3). Hence M5N10O15."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "BCB, DED, FGF, HIH, JKJ, _____",
-        "choices": [
-            "A) LML",
-            "B) KLK",
-            "C) LMN",
-            "D) MNM"
-        ],
-        "answer": "A",
-        "explanation": "Pattern: first two letters are consecutive (BC, DE, FG, HI, JK, LM). Third letter repeats first (B, D, F, H, J, L). Hence LML."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2, D4E5, G7H8, J10K11, _____",
-        "choices": [
-            "A) M13N14",
-            "B) L13M14",
-            "C) M12N13",
-            "D) N13O14"
-        ],
-        "answer": "A",
-        "explanation": "First letter skips two (A,D,G,J,M). Numbers in pairs skip based on pattern (1,2), (4,5), (7,8), (10,11), (13,14). Hence M13N14."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "P5Q10R, S15T20U, V25W30X, _____",
-        "choices": [
-            "A) Y35Z40A",
-            "B) Y34Z39A",
-            "C) X35Y40Z",
-            "D) Z35A40B"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping two for first (P,S,V,Y). First number increases by 5 (5,10,15,20→but pattern is 5,15,25,35), second by 5 from first (10,20,30,40). Hence Y35Z40A."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZA1, YB2, XC3, WD4, VE5, UF6, _____",
-        "choices": [
-            "A) TG7",
-            "B) SG7",
-            "C) TH7",
-            "D) TG8"
-        ],
-        "answer": "A",
-        "explanation": "First letter goes backward (Z,Y,X,W,V,U,T). Second letter goes forward (A,B,C,D,E,F,G). Number increases by 1 (1,2,3,4,5,6,7). Hence TG7."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B1C, D2E4F, G3H9I, J4K16L, _____",
-        "choices": [
-            "A) M5N25O",
-            "B) M5N24O",
-            "C) L5M25N",
-            "D) N5O25P"
-        ],
-        "answer": "A",
-        "explanation": "Three letters skipping two for first (A,D,G,J,M). First number increases by 1 (1,2,3,4,5). Second number is square of first (1,4,9,16,25). Hence M5N25O."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ABC1DEF, GHI2JKL, MNO3PQR, STU4VWX, _____",
-        "choices": [
-            "A) YZA5BCD",
-            "B) YZA4BCD",
-            "C) XYZ5ABC",
-            "D) ZAB5CDE"
-        ],
-        "answer": "A",
-        "explanation": "Six consecutive letters with number in middle. Number increases by 1 (1,2,3,4,5). Letters continue in sequence wrapping around Z to A. Hence YZA5BCD."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "B2D6, F18H54, J162L486, _____",
-        "choices": [
-            "A) N1458P4374",
-            "B) N1457P4373",
-            "C) M1458O4374",
-            "D) N1459P4375"
-        ],
-        "answer": "A",
-        "explanation": "Letters skip three (B,F,J,N then D,H,L,P). Numbers multiply by 3 each time (2,6,18,54,162,486,1458,4374). Hence N1458P4374."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1Z26, B2Y25, C3X24, D4W23, E5V22, F6U21, _____",
-        "choices": [
-            "A) G7T20",
-            "B) G7S20",
-            "C) G6T20",
-            "D) H7T20"
-        ],
-        "answer": "A",
-        "explanation": "First letter and number increase by 1 (A1,B2,C3,D4,E5,F6,G7). Last letter and number decrease by 1 (Z26,Y25,X24,W23,V22,U21,T20). Hence G7T20."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "M1M, N3N, O5O, P7P, Q9Q, _____",
-        "choices": [
-            "A) R11R",
-            "B) R10R",
-            "C) Q11Q",
-            "D) S11S"
-        ],
-        "answer": "A",
-        "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q,R). Middle number is odd numbers (1,3,5,7,9,11). Hence R11R."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "AB2CD4EF, GH6IJ8KL, MN10OP12QR, _____",
-        "choices": [
-            "A) ST14UV16WX",
-            "B) ST13UV15WX",
-            "C) RS14TU16VW",
-            "D) TU14VW16XY"
-        ],
-        "answer": "A",
-        "explanation": "Six letters in groups. Numbers increase by 2 alternating with letters (2,4,6,8,10,12,14,16). Letters continue in sequence (AB...GH...MN...ST). Hence ST14UV16WX."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A2B3C5, D7E11F13, G17H19I23, J29K31L37, M41N43O47, _____",
-        "choices": [
-            "A) P53Q59R61",
-            "B) P52Q58R60",
-            "C) O53P59Q61",
-            "D) Q53R59S61"
-        ],
-        "answer": "A",
-        "explanation": "Three consecutive letters skipping two for first (A,D,G,J,M,P). Numbers are consecutive prime numbers (2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61). Hence P53Q59R61."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "ZYX26, VUT23, RQP20, NML17, JIH14, _____",
-        "choices": [
-            "A) FED11",
-            "B) FED10",
-            "C) GFE11",
-            "D) EDC11"
-        ],
-        "answer": "A",
-        "explanation": "Three letters in reverse order going backward, skipping two letters between groups (ZYX, VUT, RQP, NML, JIH, FED). Number decreases by 3 (26,23,20,17,14,11). Hence FED11."
-    },
-    {
-        "topic": "Mixed Series (Alphanumeric)",
-        "question": "A1B2C3D4E5F6, G7H8I9J10K11L12, _____",
-        "choices": [
-            "A) M13N14O15P16Q17R18",
-            "B) M12N13O14P15Q16R17",
-            "C) L13M14N15O16P17Q18",
-            "D) N13O14P15Q16R17S18"
-        ],
-        "answer": "A",
-        "explanation": "Six consecutive letters. Numbers increase sequentially. Letters skip five for first (A,G,M). Numbers continue (13,14,15,16,17,18). Hence M13N14O15P16Q17R18."
-    },
-      {
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1, C3, E5, G7, _____",
+    "choices": [
+      "A) H8",
+      "B) I9",
+      "C) J10",
+      "D) I8"
+    ],
+    "answer": "B",
+    "explanation": "Letters skip one position alphabetically (A, C, E, G, I). Numbers increase by 2 each time (1, 3, 5, 7, 9). Hence I9."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z26, Y24, X22, W20, _____",
+    "choices": [
+      "A) V18",
+      "B) U18",
+      "C) V19",
+      "D) V17"
+    ],
+    "answer": "A",
+    "explanation": "Letters go in reverse alphabetical order (Z, Y, X, W, V). Numbers decrease by 2 each time (26, 24, 22, 20, 18). Hence V18."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "2B, 4D, 6F, 8H, _____",
+    "choices": [
+      "A) 10J",
+      "B) 9I",
+      "C) 10I",
+      "D) 9J"
+    ],
+    "answer": "A",
+    "explanation": "Numbers increase by 2 (2, 4, 6, 8, 10). Letters skip one position (B, D, F, H, J). Hence 10J."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1N, O2P, Q3R, S4T, _____",
+    "choices": [
+      "A) U5V",
+      "B) T5U",
+      "C) U6V",
+      "D) V5W"
+    ],
+    "answer": "A",
+    "explanation": "Pattern has pairs of consecutive letters (MN, OP, QR, ST, UV) skipping one letter between pairs. Middle number increases by 1 (1, 2, 3, 4, 5). Hence U5V."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2Z, C4X, E6V, G8T, _____",
+    "choices": [
+      "A) I10R",
+      "B) H10R",
+      "C) I9R",
+      "D) I10S"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips one position forward (A, C, E, G, I). Middle number increases by 2 (2, 4, 6, 8, 10). Last letter goes back by 2 (Z, X, V, T, R). Hence I10R."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1A2, 2B4, 3C6, 4D8, _____",
+    "choices": [
+      "A) 5E10",
+      "B) 5F10",
+      "C) 6E10",
+      "D) 5E9"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (1, 2, 3, 4, 5). Letter follows alphabetically (A, B, C, D, E). Last number doubles the first number (2, 4, 6, 8, 10). Hence 5E10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "JAK, KBL, LCM, MDN, _____",
+    "choices": [
+      "A) OEP",
+      "B) NEO",
+      "C) MEN",
+      "D) PFQ"
+    ],
+    "answer": "B",
+    "explanation": "First and third letters increase alphabetically (J\u2192K\u2192L\u2192M\u2192N, K\u2192L\u2192M\u2192N\u2192O). Middle letter follows alphabetically (A, B, C, D, E). Hence NEO."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2C, D4E, F6G, H8I, _____",
+    "choices": [
+      "A) J10K",
+      "B) I10J",
+      "C) J9K",
+      "D) K10L"
+    ],
+    "answer": "A",
+    "explanation": "Pattern has consecutive letter pairs (BC, DE, FG, HI, JK) skipping one letter between pairs. Middle number increases by 2 (2, 4, 6, 8, 10). Hence J10K."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "3M, 6N, 9O, 12P, _____",
+    "choices": [
+      "A) 15Q",
+      "B) 14Q",
+      "C) 15R",
+      "D) 16Q"
+    ],
+    "answer": "A",
+    "explanation": "Numbers increase by 3 each time (3, 6, 9, 12, 15). Letters follow alphabetically (M, N, O, P, Q). Hence 15Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z1A, Y3B, X5C, W7D, _____",
+    "choices": [
+      "A) V9E",
+      "B) U9E",
+      "C) V8E",
+      "D) V9F"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes backward (Z, Y, X, W, V). Number increases by 2 (1, 3, 5, 7, 9). Last letter goes forward (A, B, C, D, E). Hence V9E."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P16Q, Q14R, R12S, S10T, _____",
+    "choices": [
+      "A) T8U",
+      "B) U8V",
+      "C) T9U",
+      "D) T8V"
+    ],
+    "answer": "A",
+    "explanation": "First letter and last letter are consecutive and follow alphabetically (PQ, QR, RS, ST, TU). Middle number decreases by 2 (16, 14, 12, 10, 8). Hence T8U."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2, C3D4, E5F6, G7H8, _____",
+    "choices": [
+      "A) I9J10",
+      "B) I8J9",
+      "C) H9I10",
+      "D) J9K10"
+    ],
+    "answer": "A",
+    "explanation": "Pattern has consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter between pairs. Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Hence I9J10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "5A10, 7B14, 9C18, 11D22, _____",
+    "choices": [
+      "A) 13E26",
+      "B) 12E24",
+      "C) 13F26",
+      "D) 13E25"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 2 (5, 7, 9, 11, 13). Letter follows alphabetically (A, B, C, D, E). Last number is double the first (10, 14, 18, 22, 26). Hence 13E26."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "BDF, CFI, DGL, EHO, _____",
+    "choices": [
+      "A) FIR",
+      "B) FIS",
+      "C) GIR",
+      "D) FJR"
+    ],
+    "answer": "A",
+    "explanation": "First letter increases by 1 (B, C, D, E, F). Second letter increases by 1 then 2 alternately: B\u2192C(+1), C\u2192F(+3), F\u2192G(+1), G\u2192H(+1), H\u2192I(+1). Third letter increases by 3 (D, F+2\u2192I+3\u2192L+3\u2192O+3\u2192R). Pattern: FIR."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1Z2Y, 3X4W, 5V6U, 7T8S, _____",
+    "choices": [
+      "A) 9R10Q",
+      "B) 9S10R",
+      "C) 8R9Q",
+      "D) 9Q10P"
+    ],
+    "answer": "A",
+    "explanation": "Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Letters go backward in pairs (ZY, XW, VU, TS, RQ). Hence 9R10Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B, C6D, E10F, G14H, _____",
+    "choices": [
+      "A) I18J",
+      "B) H18I",
+      "C) I16J",
+      "D) I17J"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter. Middle number increases by 4 (2, 6, 10, 14, 18). Hence I18J."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M13, L11, K9, J7, _____",
+    "choices": [
+      "A) I5",
+      "B) H5",
+      "C) I6",
+      "D) I4"
+    ],
+    "answer": "A",
+    "explanation": "Letters go backward alphabetically (M, L, K, J, I). Numbers decrease by 2 (13, 11, 9, 7, 5). Hence I5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB1, CD2, EF3, GH4, _____",
+    "choices": [
+      "A) IJ5",
+      "B) HI5",
+      "C) IJ4",
+      "D) JK5"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one letter between pairs. Numbers increase by 1 (1, 2, 3, 4, 5). Hence IJ5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "2A4, 3B9, 4C16, 5D25, _____",
+    "choices": [
+      "A) 6E36",
+      "B) 6F36",
+      "C) 7E36",
+      "D) 6E35"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (2, 3, 4, 5, 6). Letter follows alphabetically (A, B, C, D, E). Last number is square of first number (4, 9, 16, 25, 36). Hence 6E36."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ1, BY2, CX3, DW4, _____",
+    "choices": [
+      "A) EV5",
+      "B) EU5",
+      "C) EV6",
+      "D) FV5"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A, B, C, D, E). Second letter goes backward (Z, Y, X, W, V). Number increases by 1 (1, 2, 3, 4, 5). Hence EV5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Q4R, S8T, U12V, W16X, _____",
+    "choices": [
+      "A) Y20Z",
+      "B) X20Y",
+      "C) Y19Z",
+      "D) Z20A"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (QR, ST, UV, WX, YZ) skipping one letter between pairs. Middle number increases by 4 (4, 8, 12, 16, 20). Hence Y20Z."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1A1, 2B4, 3C9, 4D16, _____",
+    "choices": [
+      "A) 5E25",
+      "B) 5F25",
+      "C) 6E25",
+      "D) 5E24"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (1, 2, 3, 4, 5). Letter follows alphabetically (A, B, C, D, E). Last number is square of first (1, 4, 9, 16, 25). Hence 5E25."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ACE, BDF, CEG, DFH, _____",
+    "choices": [
+      "A) EGI",
+      "B) EFG",
+      "C) EHI",
+      "D) FGH"
+    ],
+    "answer": "A",
+    "explanation": "Each term has three letters with gaps of one. Pattern shifts by one letter: ACE\u2192BDF\u2192CEG\u2192DFH\u2192EGI. Hence EGI."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z26Y, X24W, V22U, T20S, _____",
+    "choices": [
+      "A) R18Q",
+      "B) S18R",
+      "C) R19Q",
+      "D) Q18P"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes back by 2 (Z, X, V, T, R). Number decreases by 2 (26, 24, 22, 20, 18). Last letter goes back by 2 (Y, W, U, S, Q). Hence R18Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3, D4E5F6, G7H8I9, _____",
+    "choices": [
+      "A) J10K11L12",
+      "B) J9K10L11",
+      "C) I10J11K12",
+      "D) K10L11M12"
+    ],
+    "answer": "A",
+    "explanation": "Pattern has three consecutive letter-number pairs. Letters skip two positions (A,D,G,J). Numbers continue sequentially (1,2,3...10,11,12). Hence J10K11L12."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D4, F8H16, J32L64, _____",
+    "choices": [
+      "A) N128P256",
+      "B) M128O256",
+      "C) N64P128",
+      "D) N128O256"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip three positions (B,F,J,N then D,H,L,P - each pair skips 3). Numbers double each time (2,4,8,16,32,64,128,256). Hence N128P256."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z26, B2Y25, C3X24, D4W23, _____",
+    "choices": [
+      "A) E5V22",
+      "B) E5U22",
+      "C) E6V22",
+      "D) F5V22"
+    ],
+    "answer": "A",
+    "explanation": "First letter and number increase by 1. Last letter and number decrease by 1 (Z26, Y25, X24, W23, V22). Hence E5V22."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P1Q2, R4S8, T16U32, _____",
+    "choices": [
+      "A) V64W128",
+      "B) V32W64",
+      "C) U64V128",
+      "D) W64X128"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW) skipping one letter between pairs. Numbers double each time (1,2,4,8,16,32,64,128). Hence V64W128."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "BCB, DED, FGF, HIH, _____",
+    "choices": [
+      "A) JKJ",
+      "B) HJH",
+      "C) IJI",
+      "D) JHJ"
+    ],
+    "answer": "A",
+    "explanation": "First two letters progress alphabetically in pairs (B,C\u2192D,E\u2192F,G\u2192H,I\u2192J,K). Third letter repeats first letter. Hence JKJ."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2Z, C4Y, E6X, G8W, _____",
+    "choices": [
+      "A) I10V",
+      "B) H10V",
+      "C) I9V",
+      "D) I10U"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips one (A,C,E,G,I). Middle number increases by 2 (2,4,6,8,10). Last letter goes backward by 1 (Z,Y,X,W,V). Hence I10V."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M13N14, O15P16, Q17R18, S19T20, _____",
+    "choices": [
+      "A) U21V22",
+      "B) T21U22",
+      "C) U20V21",
+      "D) V21W22"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (MN, OP, QR, ST, UV) skipping one letter. Numbers increase consecutively (13,14,15,16...21,22). Hence U21V22."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1A2B, 3C4D, 5E6F, 7G8H, _____",
+    "choices": [
+      "A) 9I10J",
+      "B) 8I9J",
+      "C) 9H10I",
+      "D) 9J10K"
+    ],
+    "answer": "A",
+    "explanation": "Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Letters follow alphabetically (A,B,C,D,E,F,G,H,I,J). Hence 9I10J."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB12, CD34, EF56, GH78, _____",
+    "choices": [
+      "A) IJ90",
+      "B) IJ910",
+      "C) HI90",
+      "D) IJ89"
+    ],
+    "answer": "A",
+    "explanation": "Letter pairs skip one (AB, CD, EF, GH, IJ). Numbers: first digit increases by 2 (1,3,5,7,9), second digit increases by 2 (2,4,6,8,0\u219210 becomes 90). Hence IJ90."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ5, BY10, CX15, DW20, _____",
+    "choices": [
+      "A) EV25",
+      "B) EU25",
+      "C) EV24",
+      "D) FV25"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes backward (Z,Y,X,W,V). Number increases by 5 (5,10,15,20,25). Hence EV25."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "2B4, 4D16, 6F36, 8H64, _____",
+    "choices": [
+      "A) 10J100",
+      "B) 9I81",
+      "C) 10I100",
+      "D) 10J81"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 2 (2,4,6,8,10). Letter skips one (B,D,F,H,J). Last number is square of first (4,16,36,64,100). Hence 10J100."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZA_5, Y_4B, XC_6, W_3D, _____",
+    "choices": [
+      "A) E_7V",
+      "B) V_2E",
+      "C) VE_5",
+      "D) VE_7"
+    ],
+    "answer": "D",
+    "explanation": "First letter goes backward (Z,Y,X,W,V). Second letter goes forward (A,B,C,D,E). Numbers alternate: 5,4,6,3,7. Hence VE_7."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1, B1, C2, D3, E5, F8, _____",
+    "choices": [
+      "A) G13",
+      "B) G12",
+      "C) H13",
+      "D) F13"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically (A,B,C,D,E,F,G). Numbers follow Fibonacci sequence (1,1,2,3,5,8,13). Hence G13."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P5Q, R10S, T15U, V20W, _____",
+    "choices": [
+      "A) X25Y",
+      "B) W25X",
+      "C) X24Y",
+      "D) Y25Z"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one letter. Middle number increases by 5 (5,10,15,20,25). Hence X25Y."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D, D4F, F6H, H8J, _____",
+    "choices": [
+      "A) J10L",
+      "B) I10K",
+      "C) J9L",
+      "D) K10M"
+    ],
+    "answer": "A",
+    "explanation": "First and third letters skip one position (B,D,F,H,J then D,F,H,J,L). Middle number increases by 2 (2,4,6,8,10). Hence J10L."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1A26, 2B25, 3C24, 4D23, _____",
+    "choices": [
+      "A) 5E22",
+      "B) 5F22",
+      "C) 6E22",
+      "D) 5E21"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (1,2,3,4,5). Letter follows alphabetically (A,B,C,D,E). Last number decreases by 1 (26,25,24,23,22). Hence 5E22."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ABC1, DEF2, GHI3, JKL4, _____",
+    "choices": [
+      "A) MNO5",
+      "B) LMN5",
+      "C) MNO4",
+      "D) NOP5"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters (ABC, DEF, GHI, JKL, MNO). Number increases by 1 (1,2,3,4,5). Hence MNO5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z1Y2, X3W4, V5U6, T7S8, _____",
+    "choices": [
+      "A) R9Q10",
+      "B) S9R10",
+      "C) R8Q9",
+      "D) Q9P10"
+    ],
+    "answer": "A",
+    "explanation": "Letters go backward in pairs (ZY, XW, VU, TS, RQ) skipping one letter between pairs. Numbers increase consecutively (1,2,3,4,5,6,7,8,9,10). Hence R9Q10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C, D3E4F, G5H6I, J7K8L, _____",
+    "choices": [
+      "A) M9N10O",
+      "B) M8N9O",
+      "C) L9M10N",
+      "D) N9O10P"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two positions for first letter (A,D,G,J,M) then continue consecutively. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Hence M9N10O."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A5, C10, E15, G20, _____",
+    "choices": [
+      "A) I25",
+      "B) H25",
+      "C) I24",
+      "D) I20"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip one position (A,C,E,G,I). Numbers increase by 5 (5,10,15,20,25). Hence I25."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1M, N2N, O3O, P4P, _____",
+    "choices": [
+      "A) Q5Q",
+      "B) P5P",
+      "C) Q4Q",
+      "D) R5R"
+    ],
+    "answer": "A",
+    "explanation": "Same letter repeated with number in between. Letter follows alphabetically (M,N,O,P,Q). Number increases by 1 (1,2,3,4,5). Hence Q5Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "2A2, 3B6, 4C12, 5D20, _____",
+    "choices": [
+      "A) 6E30",
+      "B) 6F30",
+      "C) 7E30",
+      "D) 6E28"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (2,3,4,5,6). Letter follows alphabetically (A,B,C,D,E). Last number is first number \u00d7 (first number-1): 2\u00d71=2, 3\u00d72=6, 4\u00d73=12, 5\u00d74=20, 6\u00d75=30. Hence 6E30."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ACE2, BDF4, CEG6, DFH8, _____",
+    "choices": [
+      "A) EGI10",
+      "B) EFG10",
+      "C) EHI10",
+      "D) FGH10"
+    ],
+    "answer": "A",
+    "explanation": "Three letters with gaps of one, shifting forward by one: ACE\u2192BDF\u2192CEG\u2192DFH\u2192EGI. Number increases by 2 (2,4,6,8,10). Hence EGI10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZYX26, WVU23, TSR20, QPO17, _____",
+    "choices": [
+      "A) NML14",
+      "B) MLK14",
+      "C) NML15",
+      "D) ONM14"
+    ],
+    "answer": "A",
+    "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML). Number decreases by 3 (26,23,20,17,14). Hence NML14."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B3C, D5E6F, G8H9I, J11K12L, _____",
+    "choices": [
+      "A) M14N15O",
+      "B) M13N14O",
+      "C) L14M15N",
+      "D) N14O15P"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two positions for first letter (A,D,G,J,M) then consecutive. Numbers: pattern is +1, +2, +3, etc. continuing from previous. Hence M14N15O."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B1D3, F5H7, J9L11, N13P15, _____",
+    "choices": [
+      "A) R17T19",
+      "B) Q17S19",
+      "C) R16T18",
+      "D) R17S19"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip three positions (B,F,J,N,R then D,H,L,P,T). Numbers increase by 2 each (1,3,5,7,9,11,13,15,17,19). Hence R17T19."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z26, C3X24, E5V22, G7T20, _____",
+    "choices": [
+      "A) I9R18",
+      "B) H9R18",
+      "C) I8R18",
+      "D) I9S18"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips one forward (A,C,E,G,I). First number increases by 2 (1,3,5,7,9). Second letter goes back by 2 (Z,X,V,T,R). Last number decreases by 2 (26,24,22,20,18). Hence I9R18."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB2, DE4, GH6, JK8, _____",
+    "choices": [
+      "A) MN10",
+      "B) LM10",
+      "C) MN9",
+      "D) NO10"
+    ],
+    "answer": "A",
+    "explanation": "Letter pairs skip two positions (AB, DE, GH, JK, MN). Number increases by 2 (2,4,6,8,10). Hence MN10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M13N, L11O, K9P, J7Q, _____",
+    "choices": [
+      "A) I5R",
+      "B) H5R",
+      "C) I6R",
+      "D) I5S"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes backward (M,L,K,J,I). Number decreases by 2 (13,11,9,7,5). Last letter goes forward (N,O,P,Q,R). Hence I5R."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B1, C2D3, E5F8, G13H21, _____",
+    "choices": [
+      "A) I34J55",
+      "B) I33J54",
+      "C) H34I55",
+      "D) J34K55"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically. Numbers follow Fibonacci: 1,1,2,3,5,8,13,21,34,55. Hence I34J55."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P16Q17, R14S15, T12U13, V10W11, _____",
+    "choices": [
+      "A) X8Y9",
+      "B) W8X9",
+      "C) X9Y10",
+      "D) X7Y8"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number of each pair decreases by 2 (16,14,12,10,8). Second number follows. Hence X8Y9."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1A1, 2B8, 3C27, 4D64, _____",
+    "choices": [
+      "A) 5E125",
+      "B) 5F125",
+      "C) 6E125",
+      "D) 5E124"
+    ],
+    "answer": "A",
+    "explanation": "First number increases by 1 (1,2,3,4,5). Letter follows alphabetically (A,B,C,D,E). Last number is cube of first (1,8,27,64,125). Hence 5E125."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZB, CYD, EXF, GWH, _____",
+    "choices": [
+      "A) IVJ",
+      "B) HVJ",
+      "C) IUJ",
+      "D) IVK"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips one forward (A,C,E,G,I). Middle letter goes backward by 1 (Z,Y,X,W,V). Last letter skips one forward (B,D,F,H,J). Hence IVJ."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3D, E5F6G7H, I9J10K11L, _____",
+    "choices": [
+      "A) M13N14O15P",
+      "B) M12N13O14P",
+      "C) L13M14N15O",
+      "D) N13O14P15Q"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip three positions for first letter (A,E,I,M) then consecutive within group. Numbers continue sequentially (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16). Hence M13N14O15P."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z26, Y24, X22, W20, V18, _____",
+    "choices": [
+      "A) U16",
+      "B) T16",
+      "C) U15",
+      "D) U17"
+    ],
+    "answer": "A",
+    "explanation": "Letters go backward alphabetically (Z,Y,X,W,V,U). Numbers decrease by 2 (26,24,22,20,18,16). Hence U16."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2C, D4F, G6I, J8L, _____",
+    "choices": [
+      "A) M10O",
+      "B) L10N",
+      "C) M9O",
+      "D) N10P"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips two (A,D,G,J,M). Middle number increases by 2 (2,4,6,8,10). Last letter skips two (C,F,I,L,O). Hence M10O."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B1C2D, E3F4G, H5I6J, K7L8M, _____",
+    "choices": [
+      "A) N9O10P",
+      "B) N8O9P",
+      "C) M9N10O",
+      "D) O9P10Q"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two for first letter (B,E,H,K,N) then consecutive. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Hence N9O10P."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "1AB, 2CD, 3EF, 4GH, _____",
+    "choices": [
+      "A) 5IJ",
+      "B) 5HI",
+      "C) 4IJ",
+      "D) 6IJ"
+    ],
+    "answer": "A",
+    "explanation": "Number increases by 1 (1,2,3,4,5). Letter pairs skip one (AB, CD, EF, GH, IJ). Hence 5IJ."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A5Z, B10Y, C15X, D20W, _____",
+    "choices": [
+      "A) E25V",
+      "B) E24V",
+      "C) E25U",
+      "D) F25V"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A,B,C,D,E). Number increases by 5 (5,10,15,20,25). Last letter goes backward (Z,Y,X,W,V). Hence E25V."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ACE1, BDF2, CEG3, DFH4, _____",
+    "choices": [
+      "A) EGI5",
+      "B) EFG5",
+      "C) EHJ5",
+      "D) FGH5"
+    ],
+    "answer": "A",
+    "explanation": "Three letters with gap of 1 shifting forward: ACE\u2192BDF\u2192CEG\u2192DFH\u2192EGI. Number increases by 1 (1,2,3,4,5). Hence EGI5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P1Q2R, S3T4U, V5W6X, Y7Z8A, _____",
+    "choices": [
+      "A) B9C10D",
+      "B) B8C9D",
+      "C) A9B10C",
+      "D) C9D10E"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters in groups. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10). Letters continue after Z to A,B,C. Hence B9C10D."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1A, B2B, C4C, D8D, _____",
+    "choices": [
+      "A) E16E",
+      "B) E15E",
+      "C) D16D",
+      "D) F16F"
+    ],
+    "answer": "A",
+    "explanation": "Same letter repeated. Letter follows alphabetically (A,B,C,D,E). Middle number doubles each time (1,2,4,8,16). Hence E16E."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZY1, XW2, VU3, TS4, _____",
+    "choices": [
+      "A) RQ5",
+      "B) SR5",
+      "C) RQ6",
+      "D) QR5"
+    ],
+    "answer": "A",
+    "explanation": "Letter pairs go backward (ZY, XW, VU, TS, RQ) skipping one letter between pairs. Number increases by 1 (1,2,3,4,5). Hence RQ5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB12CD, EF34GH, IJ56KL, MN78OP, _____",
+    "choices": [
+      "A) QR910ST",
+      "B) QR90ST",
+      "C) PQ910RS",
+      "D) QR89ST"
+    ],
+    "answer": "B",
+    "explanation": "Letter groups of 4 skip one letter between groups. Numbers: first digit increases by 2 (1,3,5,7,9), second by 2 (2,4,6,8,10\u21920). Pattern continues as 90. Hence QR90ST."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z26B, C3X24D, E5V22F, G7T20H, _____",
+    "choices": [
+      "A) I9R18J",
+      "B) H9R18I",
+      "C) I8R18J",
+      "D) I9S18J"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips one (A,C,E,G,I). First number increases by 2. Middle letters go back by 2 (Z,X,V,T,R). Last numbers decrease by 2. Final letter follows first. Hence I9R18J."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1, L2, K4, J8, _____",
+    "choices": [
+      "A) I16",
+      "B) H16",
+      "C) I15",
+      "D) I8"
+    ],
+    "answer": "A",
+    "explanation": "Letters go backward alphabetically (M,L,K,J,I). Numbers double each time (1,2,4,8,16). Hence I16."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B4C, D8E16F, G32H64I, _____",
+    "choices": [
+      "A) J128K256L",
+      "B) J64K128L",
+      "C) I128J256K",
+      "D) K128L256M"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers double each time (2,4,8,16,32,64,128,256). Hence J128K256L."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2, C3D5, E8F13, G21H34, _____",
+    "choices": [
+      "A) I55J89",
+      "B) I54J88",
+      "C) H55I89",
+      "D) J55K89"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically. Numbers follow Fibonacci sequence (1,2,3,5,8,13,21,34,55,89). Hence I55J89."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2C3, D5E7, F11G13, H17I19, _____",
+    "choices": [
+      "A) J23K29",
+      "B) J22K28",
+      "C) I23J29",
+      "D) K23L29"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow consecutively. Numbers are prime numbers (2,3,5,7,11,13,17,19,23,29). Hence J23K29."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZA1, YB2, XC3, WD4, _____",
+    "choices": [
+      "A) VE5",
+      "B) UE5",
+      "C) VF5",
+      "D) VE6"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes backward (Z,Y,X,W,V). Second letter goes forward (A,B,C,D,E). Number increases by 1 (1,2,3,4,5). Hence VE5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B1C2, D3E5F8, G13H21I34, _____",
+    "choices": [
+      "A) J55K89L144",
+      "B) J54K88L143",
+      "C) I55J89K144",
+      "D) K55L89M144"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers follow Fibonacci (1,1,2,3,5,8,13,21,34,55,89,144). Hence J55K89L144."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ABC123, DEF456, GHI789, _____",
+    "choices": [
+      "A) JKL101112",
+      "B) JKL111213",
+      "C) IJK101112",
+      "D) KLM101112"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters (ABC, DEF, GHI, JKL). Three consecutive numbers continuing from previous (123, 456, 789, 101112). Hence JKL101112."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P5Q10, R15S20, T25U30, V35W40, _____",
+    "choices": [
+      "A) X45Y50",
+      "B) W45X50",
+      "C) X44Y49",
+      "D) Y45Z50"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number increases by 5 (5,10,15,20,25,30,35,40,45,50) where pairs go (5,10), (15,20), etc. Hence X45Y50."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B, C4D, E8F, G16H, _____",
+    "choices": [
+      "A) I32J",
+      "B) H32I",
+      "C) I31J",
+      "D) J32K"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (AB, CD, EF, GH, IJ) skipping one. Middle number doubles (2,4,8,16,32). Hence I32J."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1N2O3, P4Q5R6, S7T8U9, _____",
+    "choices": [
+      "A) V10W11X12",
+      "B) V9W10X11",
+      "C) U10V11W12",
+      "D) W10X11Y12"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Letters skip two for first letter (M,P,S,V). Hence V10W11X12."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ26, BY25, CX24, DW23, _____",
+    "choices": [
+      "A) EV22",
+      "B) EU22",
+      "C) EV23",
+      "D) FV22"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes backward (Z,Y,X,W,V). Number decreases by 1 (26,25,24,23,22). Hence EV22."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3D4, E5F6G7H8, I9J10K11L12, _____",
+    "choices": [
+      "A) M13N14O15P16",
+      "B) M12N13O14P15",
+      "C) L13M14N15O16",
+      "D) N13O14P15Q16"
+    ],
+    "answer": "A",
+    "explanation": "Four consecutive letters. Numbers increase sequentially. Letters skip three for first letter (A,E,I,M). Numbers continue (13,14,15,16). Hence M13N14O15P16."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D4F, G6I8K, L10N12P, Q14S16U, _____",
+    "choices": [
+      "A) V18X20Z",
+      "B) U18W20Y",
+      "C) V17X19Z",
+      "D) W18Y20A"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping one between each. First letter of group skips four (B,G,L,Q,V). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20). Hence V18X20Z."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1, D4, G7, J10, _____",
+    "choices": [
+      "A) M13",
+      "B) L13",
+      "C) M12",
+      "D) M14"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two positions (A,D,G,J,M). Numbers increase by 3 (1,4,7,10,13). Hence M13."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB1CD, EF2GH, IJ3KL, MN4OP, _____",
+    "choices": [
+      "A) QR5ST",
+      "B) PQ5RS",
+      "C) QR4ST",
+      "D) RS5TU"
+    ],
+    "answer": "A",
+    "explanation": "Four-letter groups. First two letters skip one (AB,EF,IJ,MN,QR). Number increases by 1 (1,2,3,4,5). Last two letters follow pattern. Hence QR5ST."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Z26Y25, X24W23, V22U21, T20S19, _____",
+    "choices": [
+      "A) R18Q17",
+      "B) S18R17",
+      "C) R19Q18",
+      "D) Q18P17"
+    ],
+    "answer": "A",
+    "explanation": "Letter pairs go backward (ZY, XW, VU, TS, RQ) skipping one between pairs. Numbers decrease consecutively (26,25,24,23,22,21,20,19,18,17). Hence R18Q17."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B3C5, D7E11F13, G17H19I23, _____",
+    "choices": [
+      "A) J29K31L37",
+      "B) J28K30L36",
+      "C) I29J31K37",
+      "D) K29L31M37"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two for first letter (A,D,G,J) then consecutive. Numbers are prime numbers (2,3,5,7,11,13,17,19,23,29,31,37). Hence J29K31L37."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1M, N4N, O9O, P16P, _____",
+    "choices": [
+      "A) Q25Q",
+      "B) Q24Q",
+      "C) P25P",
+      "D) R25R"
+    ],
+    "answer": "A",
+    "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q). Middle number is square: 1\u00b2=1, 2\u00b2=4, 3\u00b2=9, 4\u00b2=16, 5\u00b2=25. Hence Q25Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ACE2, FHJ4, KMO6, PRT8, _____",
+    "choices": [
+      "A) UWY10",
+      "B) TVX10",
+      "C) UWY9",
+      "D) VXZ10"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping one between each. First letter skips four (A,F,K,P,U). Numbers increase by 2 (2,4,6,8,10). Hence UWY10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2, C2D4, E3F6, G4H8, _____",
+    "choices": [
+      "A) I5J10",
+      "B) I4J8",
+      "C) H5I10",
+      "D) J5K10"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip one (A,C,E,G,I then B,D,F,H,J). First number increases by 1 (1,2,3,4,5). Second number doubles first (2,4,6,8,10). Hence I5J10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZYX1, WVU2, TSR3, QPO4, _____",
+    "choices": [
+      "A) NML5",
+      "B) MLK5",
+      "C) NML6",
+      "D) ONM5"
+    ],
+    "answer": "A",
+    "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML). Number increases by 1 (1,2,3,4,5). Hence NML5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z, B2Y, C3X, D4W, _____",
+    "choices": [
+      "A) E5V",
+      "B) E5U",
+      "C) E6V",
+      "D) F5V"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A,B,C,D,E). Number increases by 1 (1,2,3,4,5). Last letter goes backward (Z,Y,X,W,V). Hence E5V."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB12, CD23, EF34, GH45, _____",
+    "choices": [
+      "A) IJ56",
+      "B) HI56",
+      "C) IJ55",
+      "D) JK56"
+    ],
+    "answer": "A",
+    "explanation": "Letter pairs skip one (AB, CD, EF, GH, IJ). Numbers: first digit increases by 1 (1,2,3,4,5), second digit increases by 1 (2,3,4,5,6). Hence IJ56."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P1Q2R3, S4T5U6, V7W8X9, _____",
+    "choices": [
+      "A) Y10Z11A12",
+      "B) Y9Z10A11",
+      "C) X10Y11Z12",
+      "D) Z10A11B12"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters. Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Letters skip two for first letter (P,S,V,Y). Hence Y10Z11A12."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B4, C8D16, E32F64, _____",
+    "choices": [
+      "A) G128H256",
+      "B) G64H128",
+      "C) F128G256",
+      "D) H128I256"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip one (A,C,E,G then B,D,F,H). Numbers double each time (2,4,8,16,32,64,128,256). Hence G128H256."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1N2, O3P5, Q8R13, S21T34, _____",
+    "choices": [
+      "A) U55V89",
+      "B) U54V88",
+      "C) T55U89",
+      "D) V55W89"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically. Numbers follow Fibonacci sequence (1,2,3,5,8,13,21,34,55,89). Hence U55V89."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ1BY, CX2DW, EU3FV, GT4HU, _____",
+    "choices": [
+      "A) IS5JT",
+      "B) HS5IT",
+      "C) IS6JT",
+      "D) IR5JS"
+    ],
+    "answer": "A",
+    "explanation": "Pattern: two letters (A,C,E,G,I) skipping one, then letter backward (Z,X,V,T,R\u2192but here different pattern). Number increases. Complex alternating pattern gives IS5JT."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3, D4E5F6, G7H8I9, J10K11L12, _____",
+    "choices": [
+      "A) M13N14O15",
+      "B) M12N13O14",
+      "C) L13M14N15",
+      "D) N13O14P15"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters. Numbers increase sequentially. Letters skip two for first letter (A,D,G,J,M). Numbers continue (13,14,15). Hence M13N14O15."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D4F6, H8J10L12, N14P16R18, _____",
+    "choices": [
+      "A) T20V22X24",
+      "B) S20U22W24",
+      "C) T19V21X23",
+      "D) T20U22V24"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping one between each. First letter skips five (B,H,N,T). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20,22,24). Hence T20V22X24."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1, C4, E9, G16, _____",
+    "choices": [
+      "A) I25",
+      "B) H25",
+      "C) I24",
+      "D) I16"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip one position (A,C,E,G,I). Numbers are perfect squares (1\u00b2=1, 2\u00b2=4, 3\u00b2=9, 4\u00b2=16, 5\u00b2=25). Hence I25."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZA1, YB2, XC3, WD4, VE5, _____",
+    "choices": [
+      "A) UF6",
+      "B) TF6",
+      "C) UG6",
+      "D) UF7"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes backward (Z,Y,X,W,V,U). Second letter goes forward (A,B,C,D,E,F). Number increases by 1 (1,2,3,4,5,6). Hence UF6."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B3, D5E7, G11H13, J17K19, _____",
+    "choices": [
+      "A) M23N29",
+      "B) M22N28",
+      "C) L23M29",
+      "D) N23O29"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip two (A,D,G,J,M then B,E,H,K,N). Numbers are consecutive primes (2,3,5,7,11,13,17,19,23,29). Hence M23N29."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ABC1, DEF8, GHI27, JKL64, _____",
+    "choices": [
+      "A) MNO125",
+      "B) MNO124",
+      "C) LMN125",
+      "D) NOP125"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping two for first letter (A,D,G,J,M). Numbers are cubes (1\u00b3=1, 2\u00b3=8, 3\u00b3=27, 4\u00b3=64, 5\u00b3=125). Hence MNO125."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P5Q6, R10S12, T15U18, V20W24, _____",
+    "choices": [
+      "A) X25Y30",
+      "B) W25X30",
+      "C) X24Y29",
+      "D) Y25Z30"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. First number increases by 5 (5,10,15,20,25). Second number increases by 6 (6,12,18,24,30). Hence X25Y30."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B1C1, D2E2F2, G3H3I3, J4K4L4, _____",
+    "choices": [
+      "A) M5N5O5",
+      "B) M4N4O4",
+      "C) L5M5N5",
+      "D) N5O5P5"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters. Same number repeated three times, increasing by 1 each group (1,2,3,4,5). Letters skip two for first (A,D,G,J,M). Hence M5N5O5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B1D2F3, H4J5L6, N7P8R9, _____",
+    "choices": [
+      "A) T10V11X12",
+      "B) S10U11W12",
+      "C) T9V10X11",
+      "D) T10U11V12"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping one between each. First letter skips five (B,H,N,T). Numbers increase sequentially (1,2,3,4,5,6,7,8,9,10,11,12). Hence T10V11X12."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ26BY25, CX24DW23, EU22FV21, _____",
+    "choices": [
+      "A) GT20HU19",
+      "B) GS20HT19",
+      "C) GT21HU20",
+      "D) FS20GT19"
+    ],
+    "answer": "A",
+    "explanation": "Complex pattern: A\u2192C\u2192E\u2192G (skip 1), Z\u2192X\u2192U\u2192T (back 2 then skip), numbers decrease. Pattern gives GT20HU19."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1, N2, O4, P8, Q16, _____",
+    "choices": [
+      "A) R32",
+      "B) R31",
+      "C) Q32",
+      "D) S32"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically (M,N,O,P,Q,R). Numbers double each time (1,2,4,8,16,32). Hence R32."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C4, D8E16F32, _____",
+    "choices": [
+      "A) G64H128I256",
+      "B) G32H64I128",
+      "C) F64G128H256",
+      "D) H64I128J256"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping two for first (A,D,G). Numbers double each time (1,2,4,8,16,32,64,128,256). Hence G64H128I256."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB2CD4, EF6GH8, IJ10KL12, _____",
+    "choices": [
+      "A) MN14OP16",
+      "B) MN13OP15",
+      "C) LM14NO16",
+      "D) NO14PQ16"
+    ],
+    "answer": "A",
+    "explanation": "Four-letter groups: first two letters skip one (AB,EF,IJ,MN). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16). Hence MN14OP16."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZYX26, WVU23, TSR20, QPO17, NML14, _____",
+    "choices": [
+      "A) KJI11",
+      "B) JIH11",
+      "C) KJI12",
+      "D) LKJ11"
+    ],
+    "answer": "A",
+    "explanation": "Three letters in reverse order going backward (ZYX, WVU, TSR, QPO, NML, KJI). Number decreases by 3 (26,23,20,17,14,11). Hence KJI11."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3D4E5, F6G7H8I9J10, _____",
+    "choices": [
+      "A) K11L12M13N14O15",
+      "B) K10L11M12N13O14",
+      "C) J11K12L13M14N15",
+      "D) L11M12N13O14P15"
+    ],
+    "answer": "A",
+    "explanation": "Five consecutive letters. Numbers increase sequentially. Letters skip four for first (A,F,K). Numbers continue (11,12,13,14,15). Hence K11L12M13N14O15."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AC1, DF2, GI3, JL4, _____",
+    "choices": [
+      "A) MO5",
+      "B) LN5",
+      "C) MO4",
+      "D) NO5"
+    ],
+    "answer": "A",
+    "explanation": "Two letters skipping one between each (AC, DF, GI, JL, MO). First letter skips two (A,D,G,J,M). Number increases by 1 (1,2,3,4,5). Hence MO5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P16Q, R14S, T12U, V10W, _____",
+    "choices": [
+      "A) X8Y",
+      "B) W8X",
+      "C) X9Y",
+      "D) X7Y"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. Middle number decreases by 2 (16,14,12,10,8). Hence X8Y."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z26, B3Y24, C5X22, D7W20, _____",
+    "choices": [
+      "A) E9V18",
+      "B) E9U18",
+      "C) E8V18",
+      "D) F9V18"
+    ],
+    "answer": "A",
+    "explanation": "First letter and first number increase (A1, B3, C5, D7, E9 - letter +1, number +2). Last letter and number decrease (Z26, Y24, X22, W20, V18 - letter -1, number -2). Hence E9V18."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "BCD2, EFG4, HIJ6, KLM8, _____",
+    "choices": [
+      "A) NOP10",
+      "B) MNO10",
+      "C) NOP9",
+      "D) OPQ10"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping one for first letter (B,E,H,K,N). Number increases by 2 (2,4,6,8,10). Hence NOP10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B3C5, D7E11F13, G17H19I23, J29K31L37, _____",
+    "choices": [
+      "A) M41N43O47",
+      "B) M40N42O46",
+      "C) L41M43N47",
+      "D) N41O43P47"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping two for first letter (A,D,G,J,M). Numbers are consecutive prime numbers (2,3,5,7,11,13,17,19,23,29,31,37,41,43,47). Hence M41N43O47."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1M, N4N, O16O, P64P, _____",
+    "choices": [
+      "A) Q256Q",
+      "B) Q255Q",
+      "C) P256P",
+      "D) R256R"
+    ],
+    "answer": "A",
+    "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q). Middle number is power of 4 (4\u2070=1, 4\u00b9=4, 4\u00b2=16, 4\u00b3=64, 4\u2074=256). Hence Q256Q."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB1CD2, EF3GH4, IJ5KL6, MN7OP8, _____",
+    "choices": [
+      "A) QR9ST10",
+      "B) PQ9RS10",
+      "C) QR8ST9",
+      "D) RS9TU10"
+    ],
+    "answer": "A",
+    "explanation": "Four-letter groups: letters skip one for first pair (AB,EF,IJ,MN,QR). Numbers increase by 1 alternating (1,2,3,4,5,6,7,8,9,10). Hence QR9ST10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B1, C2D4, E3F9, G4H16, _____",
+    "choices": [
+      "A) I5J25",
+      "B) I5J24",
+      "C) H5I25",
+      "D) J5K25"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip one (A,C,E,G,I then B,D,F,H,J). First number increases by 1 (1,2,3,4,5). Second number is square of first (1,4,9,16,25). Hence I5J25."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P1Q1, R1S2, T3U5, V8W13, _____",
+    "choices": [
+      "A) X21Y34",
+      "B) X20Y33",
+      "C) W21X34",
+      "D) Y21Z34"
+    ],
+    "answer": "A",
+    "explanation": "Consecutive letter pairs (PQ, RS, TU, VW, XY) skipping one. Numbers follow Fibonacci (1,1,1,2,3,5,8,13,21,34). Hence X21Y34."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AE1, BF2, CG3, DH4, _____",
+    "choices": [
+      "A) EI5",
+      "B) DI5",
+      "C) EJ5",
+      "D) FI5"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes forward (A,B,C,D,E). Second letter goes forward with gap of 4 (E,F,G,H,I). Number increases by 1 (1,2,3,4,5). Hence EI5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZYX1, VUT2, RQP3, NML4, _____",
+    "choices": [
+      "A) JIH5",
+      "B) IHG5",
+      "C) JIH6",
+      "D) KJI5"
+    ],
+    "answer": "A",
+    "explanation": "Three letters in reverse going backward, skipping two letters between groups (ZYX, VUT, RQP, NML, JIH). Number increases by 1 (1,2,3,4,5). Hence JIH5."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3D4, E2F4G6H8, I3J6K9L12, _____",
+    "choices": [
+      "A) M4N8O12P16",
+      "B) M3N6O9P12",
+      "C) L4M8N12O16",
+      "D) N4O8P12Q16"
+    ],
+    "answer": "A",
+    "explanation": "Four consecutive letters skipping three for first (A,E,I,M). First number increases by 1 (1,2,3,4). Subsequent numbers are multiples of first (1:1,2,3,4; 2:2,4,6,8; 3:3,6,9,12; 4:4,8,12,16). Hence M4N8O12P16."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D4F6H8, J10L12N14P16, _____",
+    "choices": [
+      "A) R18T20V22X24",
+      "B) Q18S20U22W24",
+      "C) R17T19V21X23",
+      "D) R18S20T22U24"
+    ],
+    "answer": "A",
+    "explanation": "Four letters skipping one between each. First letter skips seven (B,J,R). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20,22,24). Hence R18T20V22X24."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1, B1, C2, D3, E5, F8, G13, H21, _____",
+    "choices": [
+      "A) I34",
+      "B) I33",
+      "C) H34",
+      "D) J34"
+    ],
+    "answer": "A",
+    "explanation": "Letters follow alphabetically (A,B,C,D,E,F,G,H,I). Numbers follow Fibonacci sequence (1,1,2,3,5,8,13,21,34). Hence I34."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB12CD, CD23DE, EF34FG, GH45HI, _____",
+    "choices": [
+      "A) IJ56JK",
+      "B) HI56IJ",
+      "C) IJ55JK",
+      "D) JK56KL"
+    ],
+    "answer": "A",
+    "explanation": "Pattern has overlapping pairs: AB-CD, CD-DE (CD repeats), EF-FG (F repeats), GH-HI (H repeats), IJ-JK (J repeats). Numbers: first increases by 1 (1,2,3,4,5), second by 1 (2,3,4,5,6). Hence IJ56JK."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M13, L12, K11, J10, I9, _____",
+    "choices": [
+      "A) H8",
+      "B) G8",
+      "C) H7",
+      "D) H9"
+    ],
+    "answer": "A",
+    "explanation": "Letters go backward alphabetically (M,L,K,J,I,H). Numbers decrease by 1 (13,12,11,10,9,8). Hence H8."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2C4E, F6H8J, K10M12O, P14R16T, _____",
+    "choices": [
+      "A) U18W20Y",
+      "B) T18V20X",
+      "C) U17W19Y",
+      "D) U18V20W"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping one between each. First letter skips four (A,F,K,P,U). Numbers increase by 2 continuously (2,4,6,8,10,12,14,16,18,20). Hence U18W20Y."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AZ1BY2, CX3DW4, EU5FV6, GT7HU8, _____",
+    "choices": [
+      "A) IS9JT10",
+      "B) HS9IT10",
+      "C) IS10JT11",
+      "D) IR9JS10"
+    ],
+    "answer": "A",
+    "explanation": "Complex pattern: first letter skips one (A,C,E,G,I), second goes back by 2 (Z,X,V,T,R\u2192but adjusted to S), numbers increase. Pattern gives IS9JT10."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3, D2E4F6, G3H6I9, J4K8L12, _____",
+    "choices": [
+      "A) M5N10O15",
+      "B) M4N8O12",
+      "C) L5M10N15",
+      "D) N5O10P15"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping two for first (A,D,G,J,M). First number increases by 1 (1,2,3,4,5). Pattern multiplies: 1\u00d7(1,2,3), 2\u00d7(1,2,3), 3\u00d7(1,2,3), 4\u00d7(1,2,3), 5\u00d7(1,2,3). Hence M5N10O15."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "BCB, DED, FGF, HIH, JKJ, _____",
+    "choices": [
+      "A) LML",
+      "B) KLK",
+      "C) LMN",
+      "D) MNM"
+    ],
+    "answer": "A",
+    "explanation": "Pattern: first two letters are consecutive (BC, DE, FG, HI, JK, LM). Third letter repeats first (B, D, F, H, J, L). Hence LML."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2, D4E5, G7H8, J10K11, _____",
+    "choices": [
+      "A) M13N14",
+      "B) L13M14",
+      "C) M12N13",
+      "D) N13O14"
+    ],
+    "answer": "A",
+    "explanation": "First letter skips two (A,D,G,J,M). Numbers in pairs skip based on pattern (1,2), (4,5), (7,8), (10,11), (13,14). Hence M13N14."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "P5Q10R, S15T20U, V25W30X, _____",
+    "choices": [
+      "A) Y35Z40A",
+      "B) Y34Z39A",
+      "C) X35Y40Z",
+      "D) Z35A40B"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping two for first (P,S,V,Y). First number increases by 5 (5,10,15,20\u2192but pattern is 5,15,25,35), second by 5 from first (10,20,30,40). Hence Y35Z40A."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZA1, YB2, XC3, WD4, VE5, UF6, _____",
+    "choices": [
+      "A) TG7",
+      "B) SG7",
+      "C) TH7",
+      "D) TG8"
+    ],
+    "answer": "A",
+    "explanation": "First letter goes backward (Z,Y,X,W,V,U,T). Second letter goes forward (A,B,C,D,E,F,G). Number increases by 1 (1,2,3,4,5,6,7). Hence TG7."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B1C, D2E4F, G3H9I, J4K16L, _____",
+    "choices": [
+      "A) M5N25O",
+      "B) M5N24O",
+      "C) L5M25N",
+      "D) N5O25P"
+    ],
+    "answer": "A",
+    "explanation": "Three letters skipping two for first (A,D,G,J,M). First number increases by 1 (1,2,3,4,5). Second number is square of first (1,4,9,16,25). Hence M5N25O."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ABC1DEF, GHI2JKL, MNO3PQR, STU4VWX, _____",
+    "choices": [
+      "A) YZA5BCD",
+      "B) YZA4BCD",
+      "C) XYZ5ABC",
+      "D) ZAB5CDE"
+    ],
+    "answer": "A",
+    "explanation": "Six consecutive letters with number in middle. Number increases by 1 (1,2,3,4,5). Letters continue in sequence wrapping around Z to A. Hence YZA5BCD."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "B2D6, F18H54, J162L486, _____",
+    "choices": [
+      "A) N1458P4374",
+      "B) N1457P4373",
+      "C) M1458O4374",
+      "D) N1459P4375"
+    ],
+    "answer": "A",
+    "explanation": "Letters skip three (B,F,J,N then D,H,L,P). Numbers multiply by 3 each time (2,6,18,54,162,486,1458,4374). Hence N1458P4374."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1Z26, B2Y25, C3X24, D4W23, E5V22, F6U21, _____",
+    "choices": [
+      "A) G7T20",
+      "B) G7S20",
+      "C) G6T20",
+      "D) H7T20"
+    ],
+    "answer": "A",
+    "explanation": "First letter and number increase by 1 (A1,B2,C3,D4,E5,F6,G7). Last letter and number decrease by 1 (Z26,Y25,X24,W23,V22,U21,T20). Hence G7T20."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "M1M, N3N, O5O, P7P, Q9Q, _____",
+    "choices": [
+      "A) R11R",
+      "B) R10R",
+      "C) Q11Q",
+      "D) S11S"
+    ],
+    "answer": "A",
+    "explanation": "Same letter repeated. Letter follows alphabetically (M,N,O,P,Q,R). Middle number is odd numbers (1,3,5,7,9,11). Hence R11R."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "AB2CD4EF, GH6IJ8KL, MN10OP12QR, _____",
+    "choices": [
+      "A) ST14UV16WX",
+      "B) ST13UV15WX",
+      "C) RS14TU16VW",
+      "D) TU14VW16XY"
+    ],
+    "answer": "A",
+    "explanation": "Six letters in groups. Numbers increase by 2 alternating with letters (2,4,6,8,10,12,14,16). Letters continue in sequence (AB...GH...MN...ST). Hence ST14UV16WX."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A2B3C5, D7E11F13, G17H19I23, J29K31L37, M41N43O47, _____",
+    "choices": [
+      "A) P53Q59R61",
+      "B) P52Q58R60",
+      "C) O53P59Q61",
+      "D) Q53R59S61"
+    ],
+    "answer": "A",
+    "explanation": "Three consecutive letters skipping two for first (A,D,G,J,M,P). Numbers are consecutive prime numbers (2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61). Hence P53Q59R61."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "ZYX26, VUT23, RQP20, NML17, JIH14, _____",
+    "choices": [
+      "A) FED11",
+      "B) FED10",
+      "C) GFE11",
+      "D) EDC11"
+    ],
+    "answer": "A",
+    "explanation": "Three letters in reverse order going backward, skipping two letters between groups (ZYX, VUT, RQP, NML, JIH, FED). Number decreases by 3 (26,23,20,17,14,11). Hence FED11."
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "A1B2C3D4E5F6, G7H8I9J10K11L12, _____",
+    "choices": [
+      "A) M13N14O15P16Q17R18",
+      "B) M12N13O14P15Q16R17",
+      "C) L13M14N15O16P17Q18",
+      "D) N13O14P15Q16R17S18"
+    ],
+    "answer": "A",
+    "explanation": "Six consecutive letters. Numbers increase sequentially. Letters skip five for first (A,G,M). Numbers continue (13,14,15,16,17,18). Hence M13N14O15P16Q17R18."
+  },
+  {
     "topic": "Mixed Series (Alphanumeric)",
     "question": "Which term comes next in the sequence: A, C, F, J, O, ____?",
     "choices": [
@@ -1737,7 +1737,7 @@
       "D) 49, F"
     ],
     "answer": "A",
-    "explanation": "The number series follows square numbers (2², 3², 4², 5²) and the alphabet series follows consecutive letters (A, B, C, D). So, the next terms are 6² = 36 and E."
+    "explanation": "The number series follows square numbers (2\u00b2, 3\u00b2, 4\u00b2, 5\u00b2) and the alphabet series follows consecutive letters (A, B, C, D). So, the next terms are 6\u00b2 = 36 and E."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -1869,7 +1869,7 @@
       "D) 36, O"
     ],
     "answer": "B",
-    "explanation": "The number series follows square numbers (1², 2², 3², 4²). The letter series skips two letters (C, F, I, L are C+3, F+3, etc.). So, the next terms are 5² = 25 and O (L+3)."
+    "explanation": "The number series follows square numbers (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). The letter series skips two letters (C, F, I, L are C+3, F+3, etc.). So, the next terms are 5\u00b2 = 25 and O (L+3)."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -2301,7 +2301,7 @@
       "D) 36K"
     ],
     "answer": "A",
-    "explanation": "Number series follows square numbers (1², 2², 3², 4²). Letter series skips one letter (B, D, F, H are B+2, D+2, etc.). So, the next term is 25J."
+    "explanation": "Number series follows square numbers (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). Letter series skips one letter (B, D, F, H are B+2, D+2, etc.). So, the next term is 25J."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -2541,7 +2541,7 @@
       "D) 36J"
     ],
     "answer": "A",
-    "explanation": "Number series follows square numbers (1², 2², 3², 4²). Letter series skips one letter (A, C, E, G are A+2, C+2, etc.). So, the next term is 25I."
+    "explanation": "Number series follows square numbers (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). Letter series skips one letter (A, C, E, G are A+2, C+2, etc.). So, the next term is 25I."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4149,7 +4149,7 @@
       "D) PEN"
     ],
     "answer": "A",
-    "explanation": "First letters: J→K→L→M→N. Second letters: A→B→C→D→E. Third letters: K→L→M→N→O. Hence NEO."
+    "explanation": "First letters: J\u2192K\u2192L\u2192M\u2192N. Second letters: A\u2192B\u2192C\u2192D\u2192E. Third letters: K\u2192L\u2192M\u2192N\u2192O. Hence NEO."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4197,7 +4197,7 @@
       "D) EV36"
     ],
     "answer": "A",
-    "explanation": "First letters A B C D E. Second letters Z Y X W V. Numbers squares: 1² 2² 3² 4² 5²."
+    "explanation": "First letters A B C D E. Second letters Z Y X W V. Numbers squares: 1\u00b2 2\u00b2 3\u00b2 4\u00b2 5\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4221,7 +4221,7 @@
       "D) Y36Z"
     ],
     "answer": "A",
-    "explanation": "Letters +1 each pair. Numbers squares: 1² 2² 3² 4² 5²."
+    "explanation": "Letters +1 each pair. Numbers squares: 1\u00b2 2\u00b2 3\u00b2 4\u00b2 5\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4257,7 +4257,7 @@
       "D) Z81W"
     ],
     "answer": "A",
-    "explanation": "Letters +4 each. Numbers squares: 2² 4² 6² 8² 10²."
+    "explanation": "Letters +4 each. Numbers squares: 2\u00b2 4\u00b2 6\u00b2 8\u00b2 10\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4281,7 +4281,7 @@
       "D) T64U"
     ],
     "answer": "A",
-    "explanation": "First letters reverse X W V U T. Last letters Y X W V U. Numbers squares 3² to 7²."
+    "explanation": "First letters reverse X W V U T. Last letters Y X W V U. Numbers squares 3\u00b2 to 7\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4425,7 +4425,7 @@
       "D) U100V"
     ],
     "answer": "A",
-    "explanation": "Letters reverse Y X W V U, then Z Y X W V. Numbers squares 5² to 9²."
+    "explanation": "Letters reverse Y X W V U, then Z Y X W V. Numbers squares 5\u00b2 to 9\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4437,7 +4437,7 @@
       "D) 49I"
     ],
     "answer": "B",
-    "explanation": "Squares 2² 3² 4² 5² 6². Letters D I P Y J (skip 4,6,8,9 letters)."
+    "explanation": "Squares 2\u00b2 3\u00b2 4\u00b2 5\u00b2 6\u00b2. Letters D I P Y J (skip 4,6,8,9 letters)."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4521,7 +4521,7 @@
       "D) O100Q"
     ],
     "answer": "A",
-    "explanation": "Letters +1. Numbers squares 3² 5² 7² 9² 11²."
+    "explanation": "Letters +1. Numbers squares 3\u00b2 5\u00b2 7\u00b2 9\u00b2 11\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4653,7 +4653,7 @@
       "D) 216E"
     ],
     "answer": "A",
-    "explanation": "Cubes 2³ to 6³. Letters reverse H G F E D."
+    "explanation": "Cubes 2\u00b3 to 6\u00b3. Letters reverse H G F E D."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -4773,7 +4773,7 @@
       "D) M49E"
     ],
     "answer": "A",
-    "explanation": "First reverse Y V S P M. Last A B C D E. Numbers squares 2² to 6²."
+    "explanation": "First reverse Y V S P M. Last A B C D E. Numbers squares 2\u00b2 to 6\u00b2."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6513,7 +6513,7 @@
       "D) F25"
     ],
     "answer": "A",
-    "explanation": "The letter sequence is consecutive alphabetical (A, B, C, D). The number sequence is of perfect squares (1², 2², 3², 4²). So, the next term is E and 5² = 25."
+    "explanation": "The letter sequence is consecutive alphabetical (A, B, C, D). The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). So, the next term is E and 5\u00b2 = 25."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6561,7 +6561,7 @@
       "D) 36V"
     ],
     "answer": "A",
-    "explanation": "The number series is of perfect squares (1², 2², 3², 4²). The letter sequence is decreasing alphabetically (Z, Y, X, W). So, the next term is 5² = 25 and V."
+    "explanation": "The number series is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). The letter sequence is decreasing alphabetically (Z, Y, X, W). So, the next term is 5\u00b2 = 25 and V."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6573,7 +6573,7 @@
       "D) I36"
     ],
     "answer": "A",
-    "explanation": "The letter sequence skips one letter (B, D, F, H). The number sequence is of perfect squares (1², 2², 3², 4²). So, the next term is J and 5² = 25."
+    "explanation": "The letter sequence skips one letter (B, D, F, H). The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). So, the next term is J and 5\u00b2 = 25."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6633,7 +6633,7 @@
       "D) K49U"
     ],
     "answer": "A",
-    "explanation": "First letter: skips one letter (A, C, E, G). Middle number: perfect squares (2², 3², 4², 5²). Third letter: decreasing alphabetically (Z, Y, X, W). So, the next term is I, 6²=36, V."
+    "explanation": "First letter: skips one letter (A, C, E, G). Middle number: perfect squares (2\u00b2, 3\u00b2, 4\u00b2, 5\u00b2). Third letter: decreasing alphabetically (Z, Y, X, W). So, the next term is I, 6\u00b2=36, V."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6681,7 +6681,7 @@
       "D) 36J6"
     ],
     "answer": "A",
-    "explanation": "First number: perfect squares (1², 2², 3², 4²). Middle letter: skips one letter (B, D, F, H). Third number: consecutive (1, 2, 3, 4). So, 25J5 is next."
+    "explanation": "First number: perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). Middle letter: skips one letter (B, D, F, H). Third number: consecutive (1, 2, 3, 4). So, 25J5 is next."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6741,7 +6741,7 @@
       "D) 36Q"
     ],
     "answer": "A",
-    "explanation": "The number sequence is of perfect squares (1², 2², 3², 4²). The letter sequence skips three letters (A, E, I, M are A+4, E+4, etc.). So, the next term is 25Q."
+    "explanation": "The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). The letter sequence skips three letters (A, E, I, M are A+4, E+4, etc.). So, the next term is 25Q."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6789,7 +6789,7 @@
       "D) J49"
     ],
     "answer": "A",
-    "explanation": "The letter sequence skips one letter (A, C, E, G). The number sequence is of perfect squares (2², 3², 4², 5²). So, the next term is I and 6² = 36."
+    "explanation": "The letter sequence skips one letter (A, C, E, G). The number sequence is of perfect squares (2\u00b2, 3\u00b2, 4\u00b2, 5\u00b2). So, the next term is I and 6\u00b2 = 36."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6813,7 +6813,7 @@
       "D) S36"
     ],
     "answer": "A",
-    "explanation": "The letter sequence decreases by two letters (Z, X, V, T). The number sequence is of perfect squares (1², 2², 3², 4²). So, the next term is R and 5² = 25."
+    "explanation": "The letter sequence decreases by two letters (Z, X, V, T). The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). So, the next term is R and 5\u00b2 = 25."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6849,7 +6849,7 @@
       "D) 36I12"
     ],
     "answer": "A",
-    "explanation": "First number: perfect squares (1², 2², 3², 4²). Middle letter: skips one letter (A, C, E, G). Third number: even numbers (2, 4, 6, 8). So, 25I10 is next."
+    "explanation": "First number: perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). Middle letter: skips one letter (A, C, E, G). Third number: even numbers (2, 4, 6, 8). So, 25I10 is next."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6873,7 +6873,7 @@
       "D) J25"
     ],
     "answer": "A",
-    "explanation": "The letter sequence skips one letter (A, C, E, G). The number sequence is of perfect squares (1², 2², 3², 4²). So, the next term is I and 5² = 25."
+    "explanation": "The letter sequence skips one letter (A, C, E, G). The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). So, the next term is I and 5\u00b2 = 25."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6921,7 +6921,7 @@
       "D) 36V6"
     ],
     "answer": "A",
-    "explanation": "First number: perfect squares (1², 2², 3², 4²). Middle letter: decreasing alphabetically (Z, Y, X, W). Third number: consecutive (1, 2, 3, 4). So, 25V5 is next."
+    "explanation": "First number: perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). Middle letter: decreasing alphabetically (Z, Y, X, W). Third number: consecutive (1, 2, 3, 4). So, 25V5 is next."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",
@@ -6933,7 +6933,7 @@
       "D) M36"
     ],
     "answer": "A",
-    "explanation": "The letter sequence skips two letters (B, E, H, K). The number sequence is of perfect squares (1², 2², 3², 4²). So, the next term is N and 5² = 25."
+    "explanation": "The letter sequence skips two letters (B, E, H, K). The number sequence is of perfect squares (1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2). So, the next term is N and 5\u00b2 = 25."
   },
   {
     "topic": "Mixed Series (Alphanumeric)",

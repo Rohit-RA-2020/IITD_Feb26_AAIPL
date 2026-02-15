@@ -14,7 +14,7 @@ class AAgent(object):
         # SNAPSHOT = (HF_CACHE_MODEL / "refs" / "main").read_text().strip()
         # model_name = HF_CACHE_MODEL / "snapshots" / SNAPSHOT
         
-        model_name = Path("/workspace/AAIPL/models/answer_agent_merged_optimized")
+        model_name = Path("/workspace/AAIPL/models/answer_agent_merged_optimizedv2")
 
 
         # load the tokenizer and the model

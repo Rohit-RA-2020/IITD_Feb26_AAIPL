@@ -80,9 +80,9 @@ class Config:
     EARLY_STOPPING_THRESHOLD = 0.001
     
     # Output paths
-    OUTPUT_DIR = "outputs/answer_agent_optimized"
-    LORA_SAVE_PATH = "models/answer_agent_lora_optimized"
-    MERGED_SAVE_PATH = "models/answer_agent_merged_optimized"
+    OUTPUT_DIR = "outputs/answer_agent_optimizedv2"
+    LORA_SAVE_PATH = "models/answer_agent_lora_optimizedv2"
+    MERGED_SAVE_PATH = "models/answer_agent_merged_optimizedv2"
     
     # Misc
     SEED = 3407

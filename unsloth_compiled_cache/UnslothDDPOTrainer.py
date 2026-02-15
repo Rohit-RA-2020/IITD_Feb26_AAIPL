@@ -246,7 +246,7 @@ class UnslothDDPOConfig(DDPOConfig):
     
     def __init__(
         self,
-        exp_name = 'finetune_answer_agent',
+        exp_name = 'fine-train-question',
         run_name = '',
         seed = 3407,
         log_with = None,

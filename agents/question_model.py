@@ -9,7 +9,9 @@ class QAgent(object):
         # HF_CACHE_MODEL = Path("/workspace/AAIPL/hf_models/models--Qwen--Qwen2.5-14B-Instruct")
         # SNAPSHOT = (HF_CACHE_MODEL / "refs" / "main").read_text().strip()
         # model_name = HF_CACHE_MODEL / "snapshots" / SNAPSHOT
-        model_name = Path("/workspace/AAIPL/models/question_agent_merged_optimized")
+        # model_name = Path("/workspace/AAIPL/models/answer_agent_merged_optimizedv2")
+        model_name = Path("/workspace/AAIPL/models/question_agent_merged_optimizedv2")
+        # model_name = Path("/workspace/AAIPL/models/question_agent_merged_optimized")
 
         # load the tokenizer and the model
         self.tokenizer = AutoTokenizer.from_pretrained(
