@@ -1,5 +1,7 @@
 # AAIPL Tournament: Dual-Agent Fine-Tuning Solution
 
+![Hackathon Winner](https://img.shields.io/badge/AAIPL%20Hackathon-Winner%20(1%2F120)-gold?style=for-the-badge&logo=trophy&logoColor=white)
+
 This repository contains my hackathon solution for training two specialized LLM agents for the AAIPL tournament:
 
 - **Q-Agent (Question Agent):** generates challenging, topic-aware MCQ-style questions.
